@@ -43,3 +43,5 @@
 ![](2022-01-28-14-11-23.png)
 ## AWS Autoscalling With Launch Templates Using terrafrorm 
 ![](2022-01-28-14-12-42.png)
+
+![](2022-01-28-14-13-39.png)
