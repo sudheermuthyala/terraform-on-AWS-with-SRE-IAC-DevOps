@@ -16,4 +16,4 @@
 
 - terraform loops,
 - terraform MetaAurguments
-- terraform Splat Operator
+- terraform Splat Operator and Functions
