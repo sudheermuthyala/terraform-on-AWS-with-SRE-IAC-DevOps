@@ -24,3 +24,4 @@
 ## AWS VPC + EC2 instance + Security Group Architecture
 ![](2022-01-28-13-52-50.png)
 
+![](2022-01-28-13-55-29.png)
