@@ -60,3 +60,5 @@
 ## Terraform Remote State Datasource
 ![](2022-01-28-14-23-52.png)
 ![](2022-01-28-14-25-25.png)
+
+## iac
