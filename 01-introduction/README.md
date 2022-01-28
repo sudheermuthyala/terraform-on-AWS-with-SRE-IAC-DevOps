@@ -5,3 +5,4 @@
 
 ## Index
 - Terraform Basics
+- Terraform Settings
