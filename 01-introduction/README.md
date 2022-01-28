@@ -34,5 +34,4 @@
 ## AWS ALB Host Header Based Routing
 ![](2022-01-28-14-02-47.png)
 ## AWS ALB Custom Header Based Routing & Redirects With query String And Host  Header
-
 ![](2022-01-28-14-03-54.png)
