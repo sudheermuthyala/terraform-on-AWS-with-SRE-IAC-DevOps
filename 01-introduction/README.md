@@ -55,4 +55,4 @@
 ![](2022-01-28-14-20-19.png)
 ## local State file & Remote State File
 ![](2022-01-28-14-21-31.png)
-## terraform 
+## Terraform Remote State 
