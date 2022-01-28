@@ -9,9 +9,9 @@
 - Terraform Providers,
 - terraform resources
 
-- terraform inputs
-- terraform varibles 
-- terraform Datasources 
+- terraform inputs,
+- terraform varibles,
+- terraform Datasources, 
 - terraform output values
 
 - terraform loops,
