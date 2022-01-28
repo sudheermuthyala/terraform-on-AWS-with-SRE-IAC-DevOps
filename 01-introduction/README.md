@@ -15,4 +15,4 @@
 - terraform output values
 
 - terraform loops,
-- terraform meta
+- terraform Meta
