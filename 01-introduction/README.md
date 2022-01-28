@@ -5,4 +5,5 @@
 
 ## Index
 - Terraform Basics
-- Terraform Settings, Providers And 
+- Terraform Settings, 
+- Terraform Providers
