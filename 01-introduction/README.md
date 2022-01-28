@@ -47,4 +47,5 @@
 ![](2022-01-28-14-13-39.png)
 ## AWS cloudeWatch Using Terraform
 ![](2022-01-28-14-16-44.png)
-## 
+## Build Terraform Module Locally
+![](2022-01-28-14-18-10.png)
