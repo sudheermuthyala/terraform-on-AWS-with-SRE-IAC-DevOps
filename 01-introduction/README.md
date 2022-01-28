@@ -32,4 +32,4 @@
 ## AWS ALB Context Path Based Routing
 ![](2022-01-28-14-00-33.png)
 ## AWS ALB Host Header Based Routing
-
+![](2022-01-28-14-02-47.png)
