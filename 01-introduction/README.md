@@ -28,5 +28,4 @@
 ![](2022-01-28-13-55-29.png)
 
 ## AWS VPC + EC2 instance Security Groups AWS ALB Application loade balancer
-
 ![](2022-01-28-13-57-51.png)
