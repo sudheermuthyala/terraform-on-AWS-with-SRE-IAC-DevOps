@@ -53,3 +53,4 @@
 ![](2022-01-28-14-19-16.png)
 ## Terraform Backend
 ![](2022-01-28-14-20-19.png)
+## local State file
