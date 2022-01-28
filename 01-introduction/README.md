@@ -9,4 +9,5 @@
 - Terraform Providers,
 - terraform resources
 
-- terraform 
+- terraform inputs
+- terraform varibles 
