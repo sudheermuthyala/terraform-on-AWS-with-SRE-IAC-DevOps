@@ -15,4 +15,4 @@
 - terraform output values
 
 - terraform loops,
-- terraform MetaAurgu
+- terraform MetaAurguments
