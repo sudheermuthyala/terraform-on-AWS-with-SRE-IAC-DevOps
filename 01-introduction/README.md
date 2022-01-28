@@ -18,5 +18,5 @@
 - terraform MetaAurguments,
 - terraform Splat Operator and Functions.
 
-## AWS VPC 3-Tire
+## AWS VPC 3-Tire Archi
 ![](2022-01-28-13-48-32.png)
