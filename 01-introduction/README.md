@@ -12,3 +12,4 @@
 - terraform inputs
 - terraform varibles 
 - terraform Datasources 
+- terraform output values
