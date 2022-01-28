@@ -56,3 +56,4 @@
 ## local State file & Remote State File
 ![](2022-01-28-14-21-31.png)
 ## Terraform Remote State File with state Locking
+![](2022-01-28-14-22-38.png)
