@@ -24,5 +24,5 @@
 ## AWS VPC + EC2 instance + Security Group Architecture
 ![](2022-01-28-13-52-50.png)
 
-AWS VPC + EC2 instance Security Group
+AWS VPC + EC2 instance Security Groups AWS ELB
 ![](2022-01-28-13-55-29.png)
