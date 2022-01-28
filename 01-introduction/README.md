@@ -7,4 +7,4 @@
 - Terraform Basics
 - Terraform Settings, 
 - Terraform Providers,
-- terraform 
+- terraform resources
