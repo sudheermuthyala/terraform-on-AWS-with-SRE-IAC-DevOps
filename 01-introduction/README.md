@@ -3,7 +3,7 @@
 ![](2022-01-28-13-40-48.png)
 ![](2022-01-28-13-41-48.png)
 
-## 
+## content
 - Terraform Basics
 - Terraform Settings, 
 - Terraform Providers,
