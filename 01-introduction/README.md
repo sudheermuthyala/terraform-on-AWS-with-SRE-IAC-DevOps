@@ -60,7 +60,7 @@
 ## Terraform Remote State Datasource
 ![](2022-01-28-14-23-52.png)
 ![](2022-01-28-14-25-25.png)
-
 ## iac DevOps on AWS
 ![](2022-01-28-14-27-27.png)
 ## With DEV & STAGING
+![](2022-01-28-14-30-03.png)
