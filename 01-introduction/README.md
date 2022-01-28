@@ -14,3 +14,5 @@
 - terraform Datasources 
 - terraform output values
 
+- terraform loops,
+- terraform meta
