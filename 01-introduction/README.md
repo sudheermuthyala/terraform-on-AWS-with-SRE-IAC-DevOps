@@ -21,5 +21,5 @@
 ## AWS VPC 3-Tire Architecture
 ![](2022-01-28-13-48-32.png)
 
-## AWS VPC + EC2 instance + Security Group
+## AWS VPC + EC2 instance + Security Group Architecture
 ![](2022-01-28-13-52-50.png)
