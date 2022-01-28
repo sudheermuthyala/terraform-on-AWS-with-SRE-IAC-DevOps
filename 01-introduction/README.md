@@ -27,6 +27,6 @@
 ## AWS VPC + EC2 instance Security Groups AWS ELB Clasic Load Balancer
 ![](2022-01-28-13-55-29.png)
 
-## AWS VPC + EC2 instance Security Groups AWS
+## AWS VPC + EC2 instance Security Groups AWS ALB 
 
 ![](2022-01-28-13-57-51.png)
