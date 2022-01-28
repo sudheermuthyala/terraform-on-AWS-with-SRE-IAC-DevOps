@@ -12,8 +12,8 @@
 - terraform inputs,
 - terraform varibles,
 - terraform Datasources, 
-- terraform output values
+- terraform output values,
 
 - terraform loops,
-- terraform MetaAurguments
-- terraform Splat Operator and Functions
+- terraform MetaAurguments,
+- terraform Splat Operator and Functions.
