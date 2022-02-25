@@ -1,1 +1,1 @@
-## Terraform configuration  Languuage 
+## Terraform configuration Language 
