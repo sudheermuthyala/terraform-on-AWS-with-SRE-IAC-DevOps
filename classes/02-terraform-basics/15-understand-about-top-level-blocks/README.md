@@ -9,4 +9,5 @@
   - Data Sources Block
   - Modules Block
 
+## Terraform Top-Level Blocks
 ![](2022-02-25-12-56-33.png)
