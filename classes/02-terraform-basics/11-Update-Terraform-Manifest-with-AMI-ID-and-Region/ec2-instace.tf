@@ -10,6 +10,6 @@ terraform{
 
 # provider Block
 provider "aws" {
-  profile = "default"
-  region = ""
+  profile   = "default"
+  region    = "us-east-1"
 }
