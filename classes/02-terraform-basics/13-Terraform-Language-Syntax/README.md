@@ -38,3 +38,4 @@ resource "aws_instance" "ec2demo" { # BLOCK
 ![](2022-02-25-12-29-37.png)
 
 ## 
+![](2022-02-25-12-30-41.png)
