@@ -30,3 +30,4 @@ resource "aws_instance" "ec2demo" { # BLOCK
 
 ## Terraform Language Basics - File 
 ![](2022-02-25-12-16-57.png)
+## Terraform Language Basics 
