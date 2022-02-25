@@ -1,4 +1,4 @@
-terraf
+terraform 
 terraform {
 
 }
