@@ -1,4 +1,5 @@
 ## terraform settings block
-terraform {
- 
+
+terraform{
+    
 }
