@@ -3,4 +3,4 @@
 # Step-01: Introduction
 - understand Terraform Language Basics
     - Understad Blocks
-    - Understand Arguments,Attributes 
+    - Understand Arguments,Attributes Meta-Aurgement
