@@ -8,7 +8,6 @@
     - Understand Comments
 ## Step-02: Terraform configuration Language Syntax
 - Understand Blocks
-
 - Understand Aurguments
 - Understand Identifiers
 - Understand Comments
