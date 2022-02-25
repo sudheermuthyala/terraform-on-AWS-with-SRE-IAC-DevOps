@@ -18,5 +18,5 @@ provider "aws" {
 
 resource "aws_instance" "demoonec2" {
   ami = ""
-  instance_type = "t2.small"
+  instance_type = "t2.micro"
 }
