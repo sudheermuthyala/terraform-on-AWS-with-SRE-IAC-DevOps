@@ -1,5 +1,1 @@
-## terraform settings block
-
-terraform{
-    requi
-}
+terr
