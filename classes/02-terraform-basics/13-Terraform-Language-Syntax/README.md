@@ -35,3 +35,4 @@ resource "aws_instance" "ec2demo" { # BLOCK
 ## Terraform Language Basics - Configuration Syntax `Understand Blocks`
 ![](2022-02-25-12-27-18.png)
 
+![](2022-02-25-12-29-37.png)
