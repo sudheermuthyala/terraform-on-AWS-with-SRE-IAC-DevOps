@@ -1,1 +1,0 @@
-sreenivasulu.depatla@gmail.com 
