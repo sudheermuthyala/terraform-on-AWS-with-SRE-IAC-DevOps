@@ -5,4 +5,4 @@
 
 02-01
 
-Update-Terraform-Manifest-with-AMI-
+Update-Terraform-Manifest-with-AMI-ID-and-Region
