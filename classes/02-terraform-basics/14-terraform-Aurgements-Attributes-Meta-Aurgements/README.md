@@ -1,4 +1,4 @@
-## Step-03: Understand about Arguments, Attributes and Meta-Arguments.
+Understand about Arguments, Attributes and Meta-Arguments.
 - Arguments can be `required` or `optional`
 - Attribues format looks like `resource_type.resource_name.attribute_name`
 - Meta-Arguments change a resource type's behavior (Example: count, for_each)

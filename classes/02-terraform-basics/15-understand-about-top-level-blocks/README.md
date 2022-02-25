@@ -1,4 +1,4 @@
-## Step-04: Understand about Terraform Top-Level Blocks
+## Understand about Terraform Top-Level Blocks
 - Discuss about Terraform Top-Level blocks
   - Terraform Settings Block
   - Provider Block
