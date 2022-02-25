@@ -1,4 +1,4 @@
-#
+# terraform settings Block
 terraform{
     required_providers {
         aws = {
@@ -7,3 +7,5 @@ terraform{
     }
     }
 }
+
+provi
