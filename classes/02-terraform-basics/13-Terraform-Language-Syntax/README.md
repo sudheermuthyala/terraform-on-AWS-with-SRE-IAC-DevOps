@@ -1,3 +1,3 @@
 ## Terraform configuration Language Syntax
 
-# Step-01: Inter
+# Step-01: Introduction
