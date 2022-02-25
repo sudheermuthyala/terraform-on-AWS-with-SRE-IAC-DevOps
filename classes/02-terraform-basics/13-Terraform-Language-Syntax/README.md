@@ -7,3 +7,4 @@
     - Understand Identifiers
     - Understand Comments
 ## Step-02: Terraform configuration Language Syntax
+- 
