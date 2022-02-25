@@ -2,4 +2,4 @@
 
 # Step-01: Introduction
 - understand Terraform Language Basics
-    - Unders
+    - Understad Blocks
