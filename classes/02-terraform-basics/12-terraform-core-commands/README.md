@@ -75,7 +75,4 @@ rm -rf terraform.tfstate*
   - terraform plan
   - terraform apply
   - terraform destroy     
-
-
-
 ![](2022-02-25-11-46-13.png)
