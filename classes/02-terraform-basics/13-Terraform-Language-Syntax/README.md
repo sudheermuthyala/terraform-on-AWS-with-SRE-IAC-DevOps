@@ -8,3 +8,4 @@
     - Understand Comments
 ## Step-02: Terraform configuration Language Syntax
 - Understand Blocks
+- Understand Aurg
