@@ -78,3 +78,4 @@ rm -rf terraform.tfstate*
 
 
 
+![](2022-02-25-11-46-13.png)
