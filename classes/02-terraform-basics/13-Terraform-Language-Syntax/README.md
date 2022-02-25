@@ -28,4 +28,4 @@ resource "aws_instance" "ec2demo" { # BLOCK
 }
 ```
 
-## Terraform Basics File 
+## Terraform Language Basics - File 
