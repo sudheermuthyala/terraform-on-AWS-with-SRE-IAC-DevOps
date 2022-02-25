@@ -10,4 +10,6 @@
 - Understand Blocks
 - Understand Aurguments
 - Understand Identifiers
-- 
+- Understand Comments
+- [Terraform Configuration](https://www.terraform.io/docs/configuration/index.html)
+- [Terraform Configuration Syntax](https://www.terraform.io/docs/configuration/syntax.html)
