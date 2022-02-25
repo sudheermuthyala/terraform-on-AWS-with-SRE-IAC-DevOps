@@ -6,6 +6,7 @@ terraform{
         #version = "~> 3.21" # Optional but recommended in production
     }
     }
+    
 }
 
 # provider Block
