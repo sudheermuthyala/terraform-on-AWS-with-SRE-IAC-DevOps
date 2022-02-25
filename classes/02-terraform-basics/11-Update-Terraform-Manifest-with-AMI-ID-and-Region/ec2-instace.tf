@@ -16,6 +16,6 @@ provider "aws" {
 
 ## Resource block
 
-resource "aws" "name" {
+resource "aws_instance" "demo" {
   
 }
