@@ -5,4 +5,3 @@
 
 02-01
 
-introduction-to terraform-workflow-using-terraform-commands
