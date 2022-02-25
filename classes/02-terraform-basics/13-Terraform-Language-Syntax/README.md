@@ -9,4 +9,4 @@
 ## Step-02: Terraform configuration Language Syntax
 - Understand Blocks
 - Understand Aurguments
-- 
+- Understand Iden
