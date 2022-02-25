@@ -16,3 +16,6 @@ provider "aws" {
 
 ## Resource block
 
+resource "aws" "name" {
+  
+}
