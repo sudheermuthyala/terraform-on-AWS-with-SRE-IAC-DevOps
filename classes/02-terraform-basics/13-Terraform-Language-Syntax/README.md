@@ -6,4 +6,4 @@
     - Understand Arguments,Attributes Meta-Aurgements
     - Understand Identifiers
     - Understand Comments
-## Step-02: Terraform configur
+## Step-02: Terraform configuration  Language
