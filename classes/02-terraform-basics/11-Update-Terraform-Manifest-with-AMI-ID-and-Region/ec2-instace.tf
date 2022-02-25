@@ -17,5 +17,6 @@ provider "aws" {
 ## Resource block
 
 resource "aws_instance" "demoonec2" {
-  
+  ami = ""
+  t
 }
