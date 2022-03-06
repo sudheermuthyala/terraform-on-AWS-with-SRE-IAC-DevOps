@@ -10,7 +10,7 @@ terraform{
 }
 
 /*
-NOTE: 
+NOTE:  version constrains
         required_version = "~> 1.1" 
 
 
