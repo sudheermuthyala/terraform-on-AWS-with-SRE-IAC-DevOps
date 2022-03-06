@@ -1,5 +1,9 @@
 ##  Terraform block
 terraform{
     required_version = "~> 1.1"
-    required_providers
+    required_providers{
+        aws ={
+            
+        }
+    }
 }
