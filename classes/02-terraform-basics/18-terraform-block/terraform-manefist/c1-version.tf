@@ -12,7 +12,7 @@ terraform{
 /*
 NOTE:  version constrains
         required_version = "~> 1.1" 
-        ~> will alos
+        ~> will allows the 
 
 
 */
