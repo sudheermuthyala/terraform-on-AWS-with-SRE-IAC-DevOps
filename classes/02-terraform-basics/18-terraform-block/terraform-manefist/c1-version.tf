@@ -11,8 +11,8 @@ terraform{
 
 /*
 NOTE:  version constrains
-        required_version = "~> 1.1" 
-        ~> will allows the right most
+        required_version = "~> 1.1"  
+        ~> will allows the right most 
 
 
 */
