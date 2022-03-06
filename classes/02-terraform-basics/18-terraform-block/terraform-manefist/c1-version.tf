@@ -1,4 +1,2 @@
 ##  Terraform block
-resource "" "name" {
-  
-}
+terraform
