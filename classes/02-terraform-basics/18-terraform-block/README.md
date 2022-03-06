@@ -9,3 +9,4 @@
     - Aurgments may not refer to named objects such as resources, input varibles, etc and may not use any of the terraform language built-in functions
 
 ![](2022-03-06-10-05-50.png)
+
