@@ -3,4 +3,4 @@
     - terraform block 
     - terraform settings block 
     - terraform configuration block
-- Each 
+- Each terraform block
