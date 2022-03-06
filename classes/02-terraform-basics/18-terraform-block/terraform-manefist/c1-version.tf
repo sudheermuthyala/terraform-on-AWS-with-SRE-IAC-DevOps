@@ -12,7 +12,7 @@ terraform{
 /*
 NOTE:  version constrains
         required_version = "~> 1.1" 
-        ~> will allows the RIGHT MOS
+        ~> will allows the right most
 
 
 */
