@@ -5,4 +5,4 @@
     - terraform configuration block
 - Each terraform block can contain a number of settings related to `Terraform's behavior`
 - VERY VERY IMPORTANT TO MEMORIZE
-    - Within a terraform block, only constant vali=ues 
+    - Within a terraform block, only constant valu
