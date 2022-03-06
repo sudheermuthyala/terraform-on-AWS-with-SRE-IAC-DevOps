@@ -7,3 +7,4 @@
 - VERY VERY IMPORTANT TO MEMORIZE
     - Within a terraform block, only constant values can be used
     - Aurgments may not refer to named objects such as resources, input varibles, etc and may not use any of the terraform language built-in functions
+
