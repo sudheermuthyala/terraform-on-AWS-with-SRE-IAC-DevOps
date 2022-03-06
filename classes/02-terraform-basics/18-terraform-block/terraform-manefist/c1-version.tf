@@ -10,6 +10,8 @@ terraform{
 }
 
 /*
-NOTE
+NOTE: 
+        required_version = "~> 1.1" 
+
 
 */
