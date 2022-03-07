@@ -11,4 +11,4 @@ If you want to destroy the rsources,then it will call the respective **AWS api's
 ## Provider Configuration
 - And provider configuration what ever you do in your provider block 
 
-## Dependenc
+## Dependency
