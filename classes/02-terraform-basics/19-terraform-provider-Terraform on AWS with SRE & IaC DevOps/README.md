@@ -12,3 +12,4 @@ If you want to destroy the rsources,then it will call the respective **AWS api's
 - And provider configuration what ever you do in your provider block 
 
 ## Dependency Lock File
+- 
