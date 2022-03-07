@@ -18,5 +18,5 @@ NOTE:  version constrains
         because  the ~> symbole will allow you only right most version upgrades 
         it will not allow the middle numer hear "1.2.0"
 
-        if you remove miner number leavea as "1.1" it allows "1.1.1"
+        if you remove miner number leavea as "1.1" it allows "1.1.1" "1.1.2" "1.1.1"
 */
