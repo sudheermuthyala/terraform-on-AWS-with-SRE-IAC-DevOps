@@ -4,3 +4,4 @@
 - when ever you run `terraform validate`, `terraform init`, `terraform apply` & `terraform destroy` this things it is going to comminucate with `AWS api's`in the aws cloud, and it is going to provisened that resources like ec2 instance etc.. 
 If you want to destroy the rsources,then it will call the respective **AWS api's** and delete it But who is calling it the intermatrey is going to be the terraform aws provide
 
+## terrafiorm 
