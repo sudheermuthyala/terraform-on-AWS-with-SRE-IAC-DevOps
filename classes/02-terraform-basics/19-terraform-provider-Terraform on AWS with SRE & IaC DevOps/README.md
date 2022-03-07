@@ -5,5 +5,5 @@
 If you want to destroy the rsources,then it will call the respective **AWS api's** and delete it But who is calling it the intermatrey is going to be the terraform aws provide
 
 ## terrafiorm provider Requirements
-
+- In terraform 
 ![](2022-03-07-10-00-55.png)
