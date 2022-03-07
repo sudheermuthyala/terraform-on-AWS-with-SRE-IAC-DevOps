@@ -21,5 +21,5 @@ NOTE:  version constrains
         if you remove miner number leavea as "1.1" it allows "1.1.1" "1.1.2" "1.1.3"
                 what ever it will allow up to "1.1.xx" and it allow "1.2.xx" "1.3.xx" everything
                 why because the right most version is "1.1" hear "1.2.xx" "1.3.xx" it will allow
-                this will disallow deny 
+                this will disallow deny "1.0"
 */
