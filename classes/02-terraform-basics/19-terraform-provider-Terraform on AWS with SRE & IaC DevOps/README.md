@@ -1,3 +1,3 @@
 ## Terraform providers
 - terraform providers are `HEART` of Terraform.
-- As a terra
+- As a terraform admin 
