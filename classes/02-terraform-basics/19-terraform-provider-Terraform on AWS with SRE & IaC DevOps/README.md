@@ -8,4 +8,4 @@ If you want to destroy the rsources,then it will call the respective **AWS api's
 - The provider requirements  you define in Terraform setting block 
 ![](2022-03-07-10-00-55.png)
 
-## Provider 
+## Provider Configuration
