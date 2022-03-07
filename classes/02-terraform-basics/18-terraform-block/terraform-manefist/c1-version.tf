@@ -19,7 +19,7 @@ NOTE:  version constrains
         it will not allow the middle numer hear "1.2.0"
 
         if you remove miner number leavea as "1.1" it allows "1.1.1" "1.1.2" "1.1.3"
-                what ever it will allow up to "1.1.xx" and it allow "1.2.xx" "1.3.xx" everything
-                why because the right most version is "1.1" hear "1.2.xx" "1.3.xx" it will allow
-                this will disallow deny "1.0" because the right most version is "1" so it will not allow
+        what ever it will allow up to "1.1.xx" and it allow "1.2.xx" "1.3.xx" everything
+        why because the right most version is "1.1" hear "1.2.xx" "1.3.xx" it will allow
+        this will disallow deny "1.0" because the right most version is "1" so it will not allow
 */
