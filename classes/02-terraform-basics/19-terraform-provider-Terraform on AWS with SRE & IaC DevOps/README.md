@@ -1,2 +1,2 @@
 ## Terraform providers
-- terraform providers are `HEART` of Terraform
+- terraform providers are `HEART` of Terraform.
