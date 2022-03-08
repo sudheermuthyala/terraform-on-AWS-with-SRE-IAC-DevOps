@@ -16,3 +16,4 @@ If you want to destroy the rsources,then it will call the respective **AWS api's
 ## Dependency Lock File
 - When ever you run the `terraform init` it generate the dependency lock file
 ![](2022-03-07-10-09-28.png)
+
