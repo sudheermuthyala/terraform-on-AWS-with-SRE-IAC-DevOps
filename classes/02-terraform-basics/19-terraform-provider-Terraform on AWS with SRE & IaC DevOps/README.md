@@ -20,3 +20,4 @@ If you want to destroy the rsources,then it will call the respective **AWS api's
 ## Required Providers
 ![](2022-03-08-06-56-51.png)
 ## Badges Terraform Registry
+![](2022-03-08-07-02-56.png)
