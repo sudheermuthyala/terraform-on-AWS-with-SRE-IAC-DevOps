@@ -18,3 +18,4 @@ If you want to destroy the rsources,then it will call the respective **AWS api's
 ![](2022-03-07-10-09-28.png)
 
 ## Required Providers
+![](2022-03-08-06-56-51.png)
