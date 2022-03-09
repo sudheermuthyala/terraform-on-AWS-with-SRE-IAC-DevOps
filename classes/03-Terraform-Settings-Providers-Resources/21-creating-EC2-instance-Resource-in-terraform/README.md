@@ -1,7 +1,7 @@
 ## Teerraform Language Basics - Configuration Syntax
 - **Block Type-** Block type we have is different types blocks ex: resource,varibles,output,provider,terraform,modules,data,locals
 - **Block Labels** Resource Lables Hear
-- **Top level block-**
+- **Top level block-**  Top level blocks are for ex
 - **Block inside Block**
 
 ## BlockType
