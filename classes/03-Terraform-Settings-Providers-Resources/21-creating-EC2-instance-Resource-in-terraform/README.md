@@ -16,7 +16,7 @@
 - Resource type and name together serves as an identifer for a given resource and so must be unique with in the module 
 ![](2022-03-09-07-25-32.png)
 - **Meta-Aurgements :** Meta aurgements can be used with any Resource  to chainge the behavior of resource 
-
+![](2022-03-09-07-45-52.png)
 
 
 
