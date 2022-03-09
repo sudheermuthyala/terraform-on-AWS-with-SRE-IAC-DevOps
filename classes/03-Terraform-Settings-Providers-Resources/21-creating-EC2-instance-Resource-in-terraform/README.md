@@ -9,6 +9,7 @@
 ## Resource Syntax
 - resource 
 - Resource type
+- Resource Lable
 ![](2022-03-09-07-22-16.png)
 
 
