@@ -18,6 +18,8 @@
 - **Meta-Aurgements :** Meta aurgements can be used with any Resource  to chainge the behavior of resource 
 ![](2022-03-09-07-45-52.png)
 
+-****
+
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
