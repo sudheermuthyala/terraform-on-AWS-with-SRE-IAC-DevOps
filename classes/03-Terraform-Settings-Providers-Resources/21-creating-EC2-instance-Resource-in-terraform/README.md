@@ -36,23 +36,9 @@ provider "aws" {
 }
 ```
 
-## Step-04: In c2-ec2instance.tf -  Create Resource Block
-- Understand about [Resources](https://www.terraform.io/docs/language/resources/index.html)
-- Create [EC2 Instance Resource](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
-- Understand about [File Function](https://www.terraform.io/docs/language/functions/file.html)
-- Understand about [Resources - Argument Reference](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#argument-reference)
-- Understand about [Resources - Attribute Reference](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#attributes-reference)
-```t
-# Resource: EC2 Instance
-resource "aws_instance" "myec2vm" {
-  ami = "ami-0533f2ba8a1995cf9"
-  instance_type = "t3.micro"
-  user_data = file("${path.module}/app1-install.sh")
-  tags = {
-    "Name" = "EC2 Demo"
-  }
-}
-```
+#############
+
+#############
 
 
 ## Step-05: Review file app1-install.sh
