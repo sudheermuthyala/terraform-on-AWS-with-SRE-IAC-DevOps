@@ -19,7 +19,7 @@
 ![](2022-03-09-07-45-52.png)
 
 - **Resource Aurgements:** Resource Aurgements will be specific to resource type 
-- the aurgement values can make use of 
+- the aurgement values can make use of Expressions or 
 
 
 
