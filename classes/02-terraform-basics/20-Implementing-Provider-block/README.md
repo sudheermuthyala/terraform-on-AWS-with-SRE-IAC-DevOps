@@ -1,3 +1,4 @@
+
 ## Step-03: In c1-versions.tf - Create Terraform Providers Block 
 - Understand about [Terraform Providers](https://www.terraform.io/docs/providers/index.html)
 - Configure AWS Credentials in the AWS CLI if not configured
