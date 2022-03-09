@@ -11,6 +11,7 @@
 - Resource type
 ![](2022-03-09-07-22-16.png)
 - Resource Lable
+![](2022-03-09-07-25-32.png)
 
 
 
