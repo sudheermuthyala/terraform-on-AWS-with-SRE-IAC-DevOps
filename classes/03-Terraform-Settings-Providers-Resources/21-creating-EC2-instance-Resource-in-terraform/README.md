@@ -15,7 +15,7 @@
 - But Has no significance outside That module's scope
 - Resource type and name together serves as an identifer for a given resource and so must be unique with in the module 
 ![](2022-03-09-07-25-32.png)
-- **Meta-Aurgements :** Meta aurgements can be used with any 
+- **Meta-Aurgements :** Meta aurgements can be used with any Resource  to chainge   
 
 
 
