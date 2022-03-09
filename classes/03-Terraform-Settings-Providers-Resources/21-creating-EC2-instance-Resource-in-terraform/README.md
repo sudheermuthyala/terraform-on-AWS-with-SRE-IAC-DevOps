@@ -2,7 +2,7 @@
 - **Block Type-** Block type we have is different types blocks ex: resource,varibles,output,provider,terraform,modules,data,locals
 - **Block Labels** Resource Lables Hear
 - **Top level block-**  Top level blocks are for ex: resource,varibles,output,provider,terraform,modules,data,locals
-- **Block inside Block** Block Level Blocks Are 
+- **Block inside Block** Block Level Blocks Are Ex: provisioners tags 
 
 ## BlockType
 ![](2022-03-09-07-06-33.png)
