@@ -20,21 +20,8 @@ terraform {
 }
 ```
 
-## Step-03: In c1-versions.tf - Create Terraform Providers Block 
-- Understand about [Terraform Providers](https://www.terraform.io/docs/providers/index.html)
-- Configure AWS Credentials in the AWS CLI if not configured
-```t
-# Verify AWS Credentials
-cat $HOME/.aws/credentials
-```
-- Create [AWS Providers Block](https://registry.terraform.io/providers/hashicorp/aws/latest/docs#authentication)
-```t
-# Provider Block
-provider "aws" {
-  region  = us-east-1
-  profile = "default"
-}
-```
+#################
+
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
 - Understand about [Resources](https://www.terraform.io/docs/language/resources/index.html)
