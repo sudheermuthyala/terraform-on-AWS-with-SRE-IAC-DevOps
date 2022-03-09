@@ -1,5 +1,6 @@
 ## Teerraform Language Basics - Configuration Syntax
 - **Block Type-** Block type we have is different types
+- **Block Labels**
 - **Top level block-**
 - **Block inside Block**
 
