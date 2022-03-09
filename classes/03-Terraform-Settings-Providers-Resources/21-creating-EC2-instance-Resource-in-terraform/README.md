@@ -6,6 +6,7 @@
 - **Number of Lables-** for Resources have two block or three lables, and for varibles we have one block lable, based on the block type you will find sone thing number of lables That Respective Block,what ever you define inside that blocks are called the aurgements with aurgement value
 ## BlockType
 ![](2022-03-09-07-06-33.png)
+
 ## Resource Syntax
 - **Resource** 
 - **Resource type :** It determines the kind of infrastructure Object it manages What arguments and other attributes the resource supports.
@@ -14,7 +15,7 @@
 - But Has no significance outside That module's scope
 - Resource type and name together serves as an identifer for a given resource and so must be unique with in the module 
 ![](2022-03-09-07-25-32.png)
-
+- ****
 
 
 
