@@ -1,5 +1,5 @@
 ## Teerraform Language Basics - Configuration Syntax
-Block
+- Block Type
 
 
 
