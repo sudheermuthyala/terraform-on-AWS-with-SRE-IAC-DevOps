@@ -1,4 +1,4 @@
-Teerraform Language Basics -
+Teerraform Language Basics - Configuration Syntax
 
 
 
