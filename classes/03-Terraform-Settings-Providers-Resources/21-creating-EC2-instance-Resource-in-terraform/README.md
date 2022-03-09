@@ -2,7 +2,7 @@
 - **Block Type-** Block type we have is different types
 - **Top level block-**
 - **Block inside Block**
-- **Block Labels**
+
 
 
 
