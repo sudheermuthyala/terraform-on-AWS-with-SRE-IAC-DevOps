@@ -10,7 +10,7 @@
 - **Resource** 
 - **Resource type :** It determines the kind of infrastructure Object it manages What arguments and other attributes the resource supports.
 ![](2022-03-09-07-22-16.png)
-- **Resource Lable or Resource Local name** This 
+- **Resource Lable or Resource Local name** This resource Local Name 
 ![](2022-03-09-07-25-32.png)
 
 
