@@ -8,7 +8,7 @@
 ![](2022-03-09-07-06-33.png)
 ## Resource Syntax
 - Resource 
-v
+![](2022-03-09-07-22-16.png)
 - Resource type
 - Resource Lable
 
