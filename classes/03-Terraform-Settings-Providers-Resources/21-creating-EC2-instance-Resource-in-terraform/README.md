@@ -7,6 +7,7 @@
 ## BlockType
 ![](2022-03-09-07-06-33.png)
 ## Resource Syntax
+- resource 
 
 ![](2022-03-09-07-22-16.png)
 
