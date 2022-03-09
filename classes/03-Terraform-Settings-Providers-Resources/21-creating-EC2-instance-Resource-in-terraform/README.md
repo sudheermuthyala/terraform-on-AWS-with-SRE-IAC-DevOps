@@ -10,7 +10,7 @@
 - **Resource** 
 - **Resource type** 
 ![](2022-03-09-07-22-16.png)
-- Resource Lable or Resource Local name
+- **Resource Lable or Resource Local name**
 ![](2022-03-09-07-25-32.png)
 
 
