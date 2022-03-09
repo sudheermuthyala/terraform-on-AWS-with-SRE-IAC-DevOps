@@ -3,7 +3,7 @@
 - **Block Labels** Resource Lables Hear
 - **Top level block-**  Top level blocks are for ex: resource,varibles,output,provider,terraform,modules,data,locals
 - **Block inside Block-** Block Level Blocks Are Resource specfic Blocks Ex: provisioners,tags 
-- **Number of Lables-** for Resources have two block lables, and for varibles we have one block lable, based on the block type you will find sone thing number lables That Respective Block,what ever you define inside that blocks are called the aurgements
+- **Number of Lables-** for Resources have two block lables, and for varibles we have one block lable, based on the block type you will find sone thing number lables That Respective Block,what ever you define inside that blocks are called the aurgements with aurgement value
 ## BlockType
 ![](2022-03-09-07-06-33.png)
 
