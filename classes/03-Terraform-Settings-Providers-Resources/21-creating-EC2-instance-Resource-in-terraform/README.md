@@ -6,7 +6,7 @@
 - **Number of Lables-** for Resources have two block or three lables, and for varibles we have one block lable, based on the block type you will find sone thing number of lables That Respective Block,what ever you define inside that blocks are called the aurgements with aurgement value
 ## BlockType
 ![](2022-03-09-07-06-33.png)
-
+## Resource Syntax
 ![](2022-03-09-07-22-16.png)
 
 
