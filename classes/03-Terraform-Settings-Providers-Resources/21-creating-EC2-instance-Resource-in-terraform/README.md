@@ -11,7 +11,7 @@
 - **Resource type :** It determines the kind of infrastructure Object it manages What arguments and other attributes the resource supports.
 ![](2022-03-09-07-22-16.png)
 - **Resource Lable or Resource Local name** it is key iteam for entair terraform This resource Local Name is used to reffer this resource from elsewherw in the terraform modules but
-- But Has  no significance outside That module's scope
+- But Has no significance outside That module's scope
 - Resource type and name together serves as an identifer for a given resource and so must be unique with in the module 
 ![](2022-03-09-07-25-32.png)
 
