@@ -21,7 +21,7 @@ terraform {
 ```
 
 #################
-
+#################
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
 - Understand about [Resources](https://www.terraform.io/docs/language/resources/index.html)
