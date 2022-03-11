@@ -22,7 +22,7 @@
 - the aurgement values can make use of Expressions or other terraform Dynamic Language Featurs
 
 ## Teraform Resource Behaviour
-miqdigita
+
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
