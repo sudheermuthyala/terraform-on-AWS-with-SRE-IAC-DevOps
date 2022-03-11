@@ -21,6 +21,7 @@
 - **Resource Aurgements:** Resource Aurgements will be specific to resource type 
 - the aurgement values can make use of Expressions or other terraform Dynamic Language Featurs
 
+#
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
