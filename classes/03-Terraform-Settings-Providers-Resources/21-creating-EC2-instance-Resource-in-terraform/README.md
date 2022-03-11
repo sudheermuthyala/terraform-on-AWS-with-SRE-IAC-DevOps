@@ -27,7 +27,7 @@
 **Terraform Resource**
 - **Create Resource:**  Creat Resource that exist in the Configuration but are not associated with a real time infrastructure object in the state.
 
-- **Destroy Resource:** Destroy Resource That exist in the state but no longer exo
+- **Destroy Resource:** Destroy resource That exist 
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
