@@ -32,6 +32,7 @@
 - **Destroy and re-create:** Destroy and recreate resources whose aurgements have chainged but which cannot be updated in-place due-to remote-API limitations
 
 
+
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
 - Understand about [Resources](https://www.terraform.io/docs/language/resources/index.html)
 - Create [EC2 Instance Resource](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
