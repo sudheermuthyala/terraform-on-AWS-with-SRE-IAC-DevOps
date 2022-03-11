@@ -31,7 +31,7 @@
 - **Update in-place Resources:** Update in-place resource whose aurgements have chainged 
 - **Destroy and re-create:** Destroy and recreate resources whose aurgements have chainged but which cannot be updated in-place due-to remote-API limitations
 
-- ***NOTE***
+- **NOTE** 
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
