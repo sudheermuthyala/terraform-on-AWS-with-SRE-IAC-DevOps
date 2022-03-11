@@ -25,7 +25,7 @@
 ![](2022-03-11-07-26-52.png)
 
 **Terraform Resource**
-- **Create Resource:**  Creat Resource that exist in the Configuration but are 
+- **Create Resource:**  Creat Resource that exist in the Configuration but are not associated
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
