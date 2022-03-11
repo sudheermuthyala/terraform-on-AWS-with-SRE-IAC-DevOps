@@ -29,6 +29,7 @@
 
 - **Destroy Resource:** Destroy resource That exist in the state but no longer exist in the configuration 
 - **Update in-place Resources:** Update in-place resource whose aurgements have chainged 
+-****
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
