@@ -11,6 +11,6 @@ terraform{
 
 ## Provider Block 
 
-provider "aw" {
+provider "aws" {
   
 }
