@@ -8,3 +8,9 @@ terraform{
         }
     }    
 }
+
+## Provider Block 
+
+provider "aw" {
+  
+}
