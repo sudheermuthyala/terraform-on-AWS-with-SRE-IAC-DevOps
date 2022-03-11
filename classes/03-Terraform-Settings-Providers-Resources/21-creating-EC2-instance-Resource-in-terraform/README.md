@@ -24,6 +24,7 @@
 ## Teraform Resource Behaviour
 ![](2022-03-11-07-26-52.png)
 
+terraform
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
