@@ -22,7 +22,7 @@
 - the aurgement values can make use of Expressions or other terraform Dynamic Language Featurs
 
 ## Teraform Resource Behaviour
-
+![](2022-03-11-07-26-52.png)
 
 
 
