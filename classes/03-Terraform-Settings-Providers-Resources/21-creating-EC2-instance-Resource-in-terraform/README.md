@@ -28,7 +28,7 @@
 - **Create Resource:**  Creat Resource that exist in the Configuration but are not associated with a real time infrastructure object in the state.
 
 - **Destroy Resource:** Destroy resource That exist in the state but no longer exist in the configuration 
-- **Update in-place Resources**
+- **Update in-place Resources"**
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
