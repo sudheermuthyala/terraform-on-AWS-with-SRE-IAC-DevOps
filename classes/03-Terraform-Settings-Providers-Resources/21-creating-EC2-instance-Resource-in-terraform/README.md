@@ -25,7 +25,9 @@
 ![](2022-03-11-07-26-52.png)
 
 **Terraform Resource**
-- **Create Resource:**  Creat Resource that exist in the Configuration but are not associated with a real time infrastructure object in the state
+- **Create Resource:**  Creat Resource that exist in the Configuration but are not associated with a real time infrastructure object in the state.
+
+-
 
 
 ## Step-04: In c2-ec2instance.tf -  Create Resource Block
