@@ -12,5 +12,5 @@ terraform{
 ## Provider Block 
 
 provider "aws" {
-  region = ""
+  region = "us-east-1"
 }
