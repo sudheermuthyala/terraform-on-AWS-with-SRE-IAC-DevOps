@@ -1,0 +1,1 @@
+https://marketplace.visualstudio.com/items?itemName=erd0s.terraform-autocomplete
