@@ -19,7 +19,7 @@ terraform {
     }
   }
 }
-*/
+
 
 
 ## Provider Block 
