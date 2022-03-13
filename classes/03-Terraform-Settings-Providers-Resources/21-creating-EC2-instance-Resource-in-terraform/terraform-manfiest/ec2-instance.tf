@@ -5,7 +5,7 @@ resource "aws_instance" "myec2instane" {
  user_data =  file("${path.module}/app1-install.sh")
  
  tags = {
-   "Name" = "Ec2"
+   "Name" = "Ec2-Instance-Demo"
  }
 
 }
