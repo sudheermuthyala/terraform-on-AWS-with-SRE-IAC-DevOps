@@ -3,7 +3,7 @@ resource "aws_instance" "myec2instane" {
  ami                    = "ami-0e1d30f2c40c4c701"
  instance_type          = "t2.micro"
  #user_data              =  file("app1-install.sh")
- key_name               =  
+ key_name               =  terraform-
  user_data = <<-EOF
 #! /bin/bash
 # Instance Identity Metadata Reference - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-identity-documents.html
