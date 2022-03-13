@@ -1,6 +1,6 @@
 ## resource 
 resource "aws_instance" "myec2instane" {
- ami                    = ""
+ ami                    = "ami-0e1d30f2c40c4c701"
  instance_type          = "t2.micro"
  #user_data              =  file("app1-install.sh")
  user_data = <<-EOF
