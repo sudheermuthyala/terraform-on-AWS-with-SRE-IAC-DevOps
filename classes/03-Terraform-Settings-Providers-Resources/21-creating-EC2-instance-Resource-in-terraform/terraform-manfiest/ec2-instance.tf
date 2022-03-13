@@ -4,6 +4,8 @@ resource "aws_instance" "myec2instane" {
  instance_type          = "t2.micro"
  user_data =  file("${path.module}/app1-install.sh")
  
- t
+ tags = {
+   "key" = "value"
+ }
 
 }
