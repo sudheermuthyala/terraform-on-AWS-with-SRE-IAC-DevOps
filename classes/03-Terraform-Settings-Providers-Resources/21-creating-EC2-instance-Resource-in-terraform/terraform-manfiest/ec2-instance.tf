@@ -3,7 +3,7 @@ resource "aws_instance" "myec2instane" {
  ami                    = "ami-0b90346fbb8e13c09"
  instance_type          = "t2.micro"
  #user_data              =  file("app1-install.sh")
- user_data <<-EOF
+ user_data << -EOF
 #! /bin/bash
 # Instance Identity Metadata Reference - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-identity-documents.html
 sudo yum update -y
