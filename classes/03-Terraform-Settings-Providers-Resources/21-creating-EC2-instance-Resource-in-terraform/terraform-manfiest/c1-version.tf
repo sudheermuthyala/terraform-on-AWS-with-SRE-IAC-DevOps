@@ -1,5 +1,5 @@
 terraform {
-    re
+    required_version = "~> "
 }
 
 /*terraform {
