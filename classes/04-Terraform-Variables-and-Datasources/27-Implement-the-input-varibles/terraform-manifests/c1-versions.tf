@@ -17,5 +17,6 @@ variable "instance_type" {
 
 ## AWS ec2 instance Key Pair
 variable "instance_keypair" {
-  description = "AWS EC2 key pair that need to associated with EC2"
+  description = "AWS EC2 key pair that need to associated with EC2 Instance"
+  type = 
 }
