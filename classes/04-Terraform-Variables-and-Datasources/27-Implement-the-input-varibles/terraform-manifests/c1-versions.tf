@@ -3,5 +3,6 @@
 
 variable "aws_reagion" {
   description = "Reagion in which AWS Resources to be created"
-  type = 
+  type = string
+  default = "value"
 }
