@@ -24,7 +24,6 @@ resource "aws_security_group" "allow_ssh" {
 }
 
 # Create Security Group - WEB-Traffic
-
 resource "aws_security_group" "allow_web_traffice" {
   name        = "allow_WEB"
   description = "Allow DEV web traffic"
@@ -45,6 +44,6 @@ resource "aws_security_group" "allow_web_traffice" {
   }
 
   tags = {
-    Name = "allow_ssh"
+    Name = "allow_web"
   }
 }
