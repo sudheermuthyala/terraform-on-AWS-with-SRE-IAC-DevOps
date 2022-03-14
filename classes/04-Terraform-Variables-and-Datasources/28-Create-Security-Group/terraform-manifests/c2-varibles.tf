@@ -3,7 +3,7 @@
 variable "aws_reagion" {
     description = "Reagion in which AWS Resources to be created"
     type = string
-    
+    default = "value"
   
 }
 ## AWS ec2-Instance Type 
