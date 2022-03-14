@@ -10,7 +10,7 @@ variable "aws_reagion" {
 variable "instance_type" {
     description = "EC2-instance Type"
     type = string
-    default = "value"
+    default = "t3."
   
 }
 
