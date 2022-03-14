@@ -4,4 +4,4 @@
 - **Terraform Local Values**
 
 **Terraform Input Varibles**
-- terraform input varibles serve as input varibles for a Terraform module, allowinng aspects of the module to be cust are 
+- terraform input varibles serve as input varibles for a Terraform module, allowinng aspects of the module to be customized  are 
