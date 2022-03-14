@@ -1,6 +1,6 @@
 ## Input varibles
 ## AWS Reagion
 
-variable "" {
+variable "aws_reagion" {
   
 }
