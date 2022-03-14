@@ -7,4 +7,4 @@
 
 ![](2022-03-14-12-45-01.png)
 
-## Desired & Current Terraform
+## Desired & Current Terraform States
