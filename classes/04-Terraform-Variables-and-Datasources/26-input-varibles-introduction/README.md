@@ -10,9 +10,9 @@
 3. `Override` the default varible values using  CLI aurgement `-var`[Example]()
 4. `Override` the default varible values using `Environment Varibles (TF_var_aaaaa)`[Example]()
 5. provide input varibles using `terraform.tfvars` files [Example]()
-6. provide input Varibles using `<any-name.tfvars>` file with CLI Aurgement `-var-file`
-7. provide input Varibles using `auto.tfvars` files
-8. Implement complex type constructors like `List & Map` in input Varibles
+6. provide input Varibles using `<any-name.tfvars>` file with CLI Aurgement `-var-file`[Example]()
+7. provide input Varibles using `auto.tfvars` files [Example]()
+8. Implement complex type constructors like `List & Map` in input Varibles [Example]()
 9. Implement `Custom Validation Rules` in  Varibles
 10. Protect `Sensitive` Input Varibles
 [Terraform input varibles with Varibles](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles)
