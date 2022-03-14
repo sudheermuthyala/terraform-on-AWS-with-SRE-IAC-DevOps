@@ -1,3 +1,3 @@
 ## Terraform State Basics
 
-- terraform must stre
+- terraform must store State About
