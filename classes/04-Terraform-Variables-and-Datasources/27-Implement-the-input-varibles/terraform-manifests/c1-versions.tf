@@ -10,5 +10,5 @@ variable "aws_reagion" {
 
 ## AWS ec2-Instance Type
 variable "instance_type" {
-  description = "value"
+  description = "EC2-in"
 }
