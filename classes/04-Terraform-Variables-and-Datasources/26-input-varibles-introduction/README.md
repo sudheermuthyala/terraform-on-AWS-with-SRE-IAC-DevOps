@@ -10,4 +10,4 @@
 3. `Override` the default varible values using  CLI aurgement `-var`
 4. `Override` the default varible values using `Environment Varibles (TF_var_aaaaa)`
 5. provide input varibles using `terraform.tfvars` files
-6. provide input Varibles
+6. provide input Varibles using any
