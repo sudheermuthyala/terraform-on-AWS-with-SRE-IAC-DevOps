@@ -14,4 +14,4 @@
 7. provide input Varibles using `auto.tfvars` files
 8. Implement complex type constructors like `List & Map` in input Varibles
 9. Implement `Custom Validation Rules` in  Varibles
-10. Protect Sen
+10. Protect Sensitive Input 
