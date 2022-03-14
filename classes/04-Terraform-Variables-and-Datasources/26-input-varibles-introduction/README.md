@@ -7,4 +7,4 @@
 - terraform input varibles serve as input varibles for a Terraform module, allowinng aspects of the module to be customized without altering the module's own source code, and allowinng modules to be shared between different configurations.
 - input varibles - Basics
 - Provide input varibles when Prompted during terraform plan or apply
-- Override the default varible value using  CLI 
+- Override the default varible value using  CLI aurgement
