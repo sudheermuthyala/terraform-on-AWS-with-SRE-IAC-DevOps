@@ -12,3 +12,4 @@
 5. provide input varibles using `terraform.tfvars` files
 6. provide input Varibles using `<any-name.tfvars>` file with CLI Aurgement `-var-file`
 7. provide input Varibles using `auto.tfvars` files
+
