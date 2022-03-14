@@ -15,4 +15,7 @@ variable "instance_type" {
   default = "t3.micro"
 }
 
-## AWS ec2 instance Key
+## AWS ec2 instance Key Pair
+variable "" {
+  
+}
