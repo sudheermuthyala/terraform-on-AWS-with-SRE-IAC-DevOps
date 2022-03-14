@@ -1,4 +1,4 @@
 ## Terraform varbles
 - **Terraform Input Varibles**
-- **Terraform Output Vles**
+- **Terraform Output Values**
 - **Terraform Local Values**
