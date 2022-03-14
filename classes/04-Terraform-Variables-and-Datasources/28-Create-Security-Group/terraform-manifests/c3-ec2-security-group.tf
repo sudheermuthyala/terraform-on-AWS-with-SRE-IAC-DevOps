@@ -30,7 +30,7 @@ resource "aws_security_group" "allow_web_traffice" {
   description = "Allow DEV web traffic"
 
   ingress {
-    description      = "Allow web Traffice"
+    description      = "Allow web traffic"
     from_port        = 22
     to_port          = 22
     protocol         = "tcp"
