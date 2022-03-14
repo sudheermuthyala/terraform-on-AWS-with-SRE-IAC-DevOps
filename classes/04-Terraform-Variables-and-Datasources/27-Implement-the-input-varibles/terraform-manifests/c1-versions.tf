@@ -8,4 +8,7 @@ variable "aws_reagion" {
   default = "us-east-1"
 }
 
-## AWS ec2-Instance 
+## AWS ec2-Instance Type
+variable "" {
+  
+}
