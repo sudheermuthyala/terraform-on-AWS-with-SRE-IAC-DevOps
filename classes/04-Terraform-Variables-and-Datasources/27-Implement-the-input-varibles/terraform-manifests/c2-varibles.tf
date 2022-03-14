@@ -6,7 +6,7 @@ variable "aws_reagion" {
   default = "us-east-1"
 }
 
-## AWS ec2-Instance Type
+## AWS ec2-Instance Type AWS Reagion 
 variable "instance_type" {
   description = "EC2-instance Type"
   type =  string
