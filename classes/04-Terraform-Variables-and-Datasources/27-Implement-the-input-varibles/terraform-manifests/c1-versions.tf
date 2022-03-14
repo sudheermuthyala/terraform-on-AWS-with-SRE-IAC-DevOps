@@ -9,6 +9,6 @@ variable "aws_reagion" {
 }
 
 ## AWS ec2-Instance Type
-variable "" {
+variable "instance_type" {
   
 }
