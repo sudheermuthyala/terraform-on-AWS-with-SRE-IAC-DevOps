@@ -11,7 +11,7 @@
 4. `Override` the default varible values using `Environment Varibles (TF_var_aaaaa)`[Example](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles/64-v4_Override_default_variable_values_using_Environment_Variables)
 5. provide input varibles using `terraform.tfvars` files [Example](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles/65-v5-Assign_Input_Variables_from_terraform.tfvars)
 6. provide input Varibles using `<any-name.tfvars>` file with CLI Aurgement `-var-file`[Example](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles/66-v6-Assign_Input_Variables_with-var-file_argument)
-7. provide input Varibles using `auto.tfvars` files [Example]()
+7. provide input Varibles using `auto.tfvars` files [Example](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles/67-v7-Auto-load-input-variables-with-auto-tfvars-files)
 8. Implement complex type constructors like `List & Map` in input Varibles [Example]()
 9. Implement `Custom Validation Rules` in  Varibles [Example]()
 10. Protect `Sensitive` Input Varibles [Example]()
