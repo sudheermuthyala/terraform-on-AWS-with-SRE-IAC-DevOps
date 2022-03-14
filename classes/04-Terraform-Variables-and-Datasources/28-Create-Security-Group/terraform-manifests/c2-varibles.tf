@@ -1,1 +1,2 @@
-## 
+## Input varibles
+## AWS Reagion
