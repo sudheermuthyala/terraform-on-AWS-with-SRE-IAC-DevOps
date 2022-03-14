@@ -1,6 +1,7 @@
 ## Input varibles
 ## AWS Reagion
 variable "aws_reagion" {
+    description = ""
   
 }
 ## AWS ec2-Instance Type 
