@@ -8,3 +8,4 @@
 - input varibles - `Basics`
 - Provide input varibles `when Prompted` during `terraform plan or apply`
 - Override the default varible value using  CLI aurgement `-var`
+-
