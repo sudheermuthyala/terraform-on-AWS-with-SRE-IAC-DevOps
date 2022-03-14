@@ -19,5 +19,5 @@ variable "instance_type" {
 variable "instance_keypair" {
   description = "AWS EC2 key pair that need to associated with EC2 Instance"
   type = string
-  default = "value"
+  default = "terraform-k"
 }
