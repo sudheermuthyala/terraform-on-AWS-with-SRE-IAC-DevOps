@@ -1,1 +1,4 @@
-## Terraform configuration
+## Terraform configuration block
+terraform {
+    
+}
