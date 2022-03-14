@@ -26,7 +26,7 @@ resource "aws_security_group" "allow_ssh" {
 # Create Security Group - WEB-Traffic
 
 resource "aws_security_group" "allow_web_traffice" {
-  name        = "allow_ssh"
+  name        = "allow_WEB"
   description = "Allow DEV ssh"
 
   ingress {
