@@ -25,7 +25,7 @@ resource "aws_security_group" "allow_ssh" {
 
 # Create Security Group - WEB-Traffic
 
-resource "aws_security_group" "allow_" {
+resource "aws_security_group" "allow_web_traffice" {
   name        = "allow_ssh"
   description = "Allow DEV ssh"
 
