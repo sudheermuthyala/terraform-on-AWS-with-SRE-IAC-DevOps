@@ -2,7 +2,7 @@
 ## AWS Reagion
 variable "aws_reagion" {
     description = "Reagion in which AWS Resources to be created"
-    ty
+    type = 
   
 }
 ## AWS ec2-Instance Type 
