@@ -15,5 +15,5 @@
 8. Implement complex type constructors like `List & Map` in input Varibles
 9. Implement `Custom Validation Rules` in  Varibles
 10. Protect `Sensitive` Input Varibles
-[terrafor](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles)
+[terraform input](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles)
 
