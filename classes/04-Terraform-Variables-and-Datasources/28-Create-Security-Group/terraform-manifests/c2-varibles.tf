@@ -9,6 +9,6 @@ variable "instance_type" {
 }
 
 ## AWS ec2 instance Key Pair
-variable "" {
+variable "instance_keypair" {
   
 }
