@@ -7,9 +7,9 @@
 - terraform input varibles serve as input varibles for a Terraform module, allowinng aspects of the module to be customized without altering the module's own source code, and allowinng modules to be shared between different configurations.
 1. input varibles - `Basics` [Example]()
 2. Provide input varibles `when Prompted` during `terraform plan or apply`[Example]()
-3. `Override` the default varible values using  CLI aurgement `-var`
-4. `Override` the default varible values using `Environment Varibles (TF_var_aaaaa)`
-5. provide input varibles using `terraform.tfvars` files
+3. `Override` the default varible values using  CLI aurgement `-var`[Example]()
+4. `Override` the default varible values using `Environment Varibles (TF_var_aaaaa)`[Example]()
+5. provide input varibles using `terraform.tfvars` files [Example]()
 6. provide input Varibles using `<any-name.tfvars>` file with CLI Aurgement `-var-file`
 7. provide input Varibles using `auto.tfvars` files
 8. Implement complex type constructors like `List & Map` in input Varibles
