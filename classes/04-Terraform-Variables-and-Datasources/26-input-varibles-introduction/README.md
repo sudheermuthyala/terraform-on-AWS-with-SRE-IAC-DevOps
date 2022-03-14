@@ -4,4 +4,4 @@
 - **Terraform Local Values**
 
 **Terraform Input Varibles**
-- terraform input varibles serve as input varibles for a terraformare 
+- terraform input varibles serve as input varibles for a Terraform are 
