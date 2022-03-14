@@ -13,7 +13,7 @@
 6. provide input Varibles using `<any-name.tfvars>` file with CLI Aurgement `-var-file`[Example]()
 7. provide input Varibles using `auto.tfvars` files [Example]()
 8. Implement complex type constructors like `List & Map` in input Varibles [Example]()
-9. Implement `Custom Validation Rules` in  Varibles
-10. Protect `Sensitive` Input Varibles
+9. Implement `Custom Validation Rules` in  Varibles [Example]()
+10. Protect `Sensitive` Input Varibles [Example]()
 [Terraform input varibles with Varibles](https://github.com/sudheermuthyala/terraform-/tree/main/04-Terraform-Variables/02-Terraform_input_varibles)
 
