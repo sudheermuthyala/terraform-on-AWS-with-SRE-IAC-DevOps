@@ -1,1 +1,1 @@
-## Terraform configurati
+## Terraform configuration
