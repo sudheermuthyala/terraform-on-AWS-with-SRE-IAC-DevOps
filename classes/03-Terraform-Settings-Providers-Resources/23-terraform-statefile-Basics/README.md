@@ -1,3 +1,3 @@
 ## Terraform State Basics
 
-- terraform must store State About your 
+- terraform must store State About your managed
