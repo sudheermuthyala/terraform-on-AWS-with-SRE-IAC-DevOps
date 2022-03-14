@@ -17,5 +17,5 @@ variable "instance_type" {
 
 ## AWS ec2 instance Key Pair
 variable "instance_keypair" {
-  
+  description = "value"
 }
