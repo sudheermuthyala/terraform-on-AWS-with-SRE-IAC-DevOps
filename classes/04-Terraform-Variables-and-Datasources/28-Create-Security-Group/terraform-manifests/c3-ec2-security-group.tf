@@ -27,7 +27,7 @@ resource "aws_security_group" "allow_ssh" {
 
 resource "aws_security_group" "allow_web_traffice" {
   name        = "allow_WEB"
-  description = "Allow DEV ssh"
+  description = "Allow DEV web traffic"
 
   ingress {
     description      = "Allow DEV ssh"
