@@ -8,3 +8,4 @@
 ![](2022-03-14-12-45-01.png)
 
 ## Desired & Current Terraform States
+![](2022-03-14-12-46-49.png)
