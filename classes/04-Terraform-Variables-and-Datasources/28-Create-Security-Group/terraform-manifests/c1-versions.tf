@@ -1,4 +1,4 @@
 ## Terraform configuration block
 terraform {
-    required_version 
+    required_version = ""
 }
