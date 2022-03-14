@@ -4,7 +4,7 @@ resource "aws_security_group" "allow_ssh" {
   vpc_id      = aws_vpc.main.id
 
   ingress {
-    description      = "TLS from VPC"
+    description      = "T"
     from_port        = 443
     to_port          = 443
     protocol         = "tcp"
