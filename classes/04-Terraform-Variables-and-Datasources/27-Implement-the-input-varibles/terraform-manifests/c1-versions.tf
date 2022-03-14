@@ -1,2 +1,6 @@
 ## Input varibles
-## AWS Reagi
+## AWS Reagion
+
+variable "" {
+  
+}
