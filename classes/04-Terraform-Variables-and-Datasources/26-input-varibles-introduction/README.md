@@ -4,4 +4,4 @@
 - **Terraform Local Values**
 
 **Terraform Input Varibles**
-- 
+- terraform input varibles are 
