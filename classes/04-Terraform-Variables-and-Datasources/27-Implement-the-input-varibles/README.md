@@ -1,2 +1,3 @@
 - In this session we have covered defult varibles 
     - aws_reagion
+    - instance_type
