@@ -2,4 +2,4 @@
     - aws_reagion
     - instance_type
     - instance_keypair 
-- Inthis session we addes Create-security-
+- Inthis session we addes Create-security-Group
