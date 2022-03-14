@@ -6,3 +6,4 @@
 - The primary purpose of Terraform  state is to store binding between objects in a remote system and resource instance decleared in your configuration 
 
 ![](2022-03-14-12-45-01.png)
+
