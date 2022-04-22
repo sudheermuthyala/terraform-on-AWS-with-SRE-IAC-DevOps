@@ -12,5 +12,5 @@ terraform {
 ## Providev Block
 
 provider "aws" {
-  
+
 }
