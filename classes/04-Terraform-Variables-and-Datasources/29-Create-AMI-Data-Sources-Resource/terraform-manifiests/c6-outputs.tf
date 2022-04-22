@@ -6,5 +6,5 @@ output "aws_instance_publicip" {
 
 output "aws_instance_dns" {
   description = "public dns"
-  value = aws_instance.Myec2.pu
+  value = aws_instance.Myec2.public_dns
 }
