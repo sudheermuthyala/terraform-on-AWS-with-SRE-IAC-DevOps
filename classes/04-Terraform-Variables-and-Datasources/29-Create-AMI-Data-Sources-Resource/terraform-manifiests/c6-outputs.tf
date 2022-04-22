@@ -4,3 +4,6 @@ output "aws_instance_publicip" {
   
 }
 
+output "name" {
+  
+}
