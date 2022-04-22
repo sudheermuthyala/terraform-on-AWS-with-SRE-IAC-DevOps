@@ -28,7 +28,7 @@ data "aws_ami" "example" {
 #Centos-7-DevOps-Practice	
 
 amzn2-ami-kernel-5.10-hvm-2.0.20220419.0-x86_64-gp2
-amzn2-ami-hvm-2-x86_64-gp2	
+amzn2-ami-hvm--x86_64-gp2	
 
 
 
