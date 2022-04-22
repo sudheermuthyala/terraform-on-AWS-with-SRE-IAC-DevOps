@@ -1,6 +1,6 @@
 ## data aws_ami
 data.aws_ami.
-data "aws_ami" "example" {
+data "aws_ami" "amazon" {
   most_recent      = true
   owners           = ["amazon"]
 
