@@ -14,5 +14,5 @@ variable "instance_type" {
 variable "key_pair" {
   description = "keypair"
   type = string
-  default = 
+  default = "terraform-k"
 }
