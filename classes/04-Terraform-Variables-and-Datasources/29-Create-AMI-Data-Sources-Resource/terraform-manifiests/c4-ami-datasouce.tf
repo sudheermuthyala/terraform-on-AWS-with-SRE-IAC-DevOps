@@ -19,7 +19,7 @@ data "aws_ami" "example" {
   
   filter {
     name   = "Architecture-type"
-    values = ["hvm"]
+    values = ["x86_64"]
   }
 
 }
