@@ -1,3 +1,4 @@
-output "aws_instance." {
+output "aws_instance.Myec2" {
+    
   
 }
