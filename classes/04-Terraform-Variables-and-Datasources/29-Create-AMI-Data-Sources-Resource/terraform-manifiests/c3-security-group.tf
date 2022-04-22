@@ -1,4 +1,4 @@
-## allow 
+## allow ssh 
 resource "aws_security_group" "allow_ssh" {
   name        = "allow_ssh"
   description = "Allow TLS inbound traffic"
@@ -48,6 +48,6 @@ resource "aws_security_group" "allow_web" {
   }
 
   tags = {
-    Name = "allow_ssh"
+    Name = "allow_web"
   }
 }
