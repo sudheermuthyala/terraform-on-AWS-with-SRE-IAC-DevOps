@@ -8,6 +8,6 @@ resource "aws_instance" "Myec2" {
   vpc_security_group_ids = [ aws_security_group.allow_ssh.id, aws_security_group.allow_web.id ]
 
   tags = {
-    Name = "Demo"
+    Name = "DemoEc2-1"
   }
 }
