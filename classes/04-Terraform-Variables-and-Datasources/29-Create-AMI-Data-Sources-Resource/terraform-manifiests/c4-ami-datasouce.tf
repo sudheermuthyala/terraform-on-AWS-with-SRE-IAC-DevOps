@@ -27,7 +27,7 @@ data "aws_ami" "example" {
 
 #   Centos-7-DevOps-Practice	
 
-
+/*
 data "aws_ami" "example" {
   most_recent      = true
   owners           = ["amazon"]
@@ -53,5 +53,6 @@ data "aws_ami" "example" {
   }
 
 }
+
 
 
