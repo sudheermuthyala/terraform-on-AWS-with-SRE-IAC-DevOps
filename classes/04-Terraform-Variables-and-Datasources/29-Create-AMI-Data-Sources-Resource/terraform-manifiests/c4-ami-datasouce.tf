@@ -17,3 +17,6 @@ data "aws_ami" "example" {
     values = ["hvm"]
   }
 }
+
+
+#Centos-7-DevOps-Practice	
