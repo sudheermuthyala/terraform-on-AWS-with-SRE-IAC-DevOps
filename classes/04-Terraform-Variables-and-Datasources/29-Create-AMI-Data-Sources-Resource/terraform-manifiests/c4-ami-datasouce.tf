@@ -34,7 +34,7 @@ data "aws_ami" "example" {
 
   filter {
     name   = "name"
-    values = ["amzn2-ami-hvm-*gp2"]
+    values = ["Centos-7-DevOps-Practice"]
   }
 
   filter {
