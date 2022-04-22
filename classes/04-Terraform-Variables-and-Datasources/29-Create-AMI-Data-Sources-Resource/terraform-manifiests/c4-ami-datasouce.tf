@@ -1,5 +1,5 @@
 ## data aws_ami
-data.aws_ami.
+
 data "aws_ami" "amazonimage" {
   most_recent      = true
   owners           = ["amazon"]
