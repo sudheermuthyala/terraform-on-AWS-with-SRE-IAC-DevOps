@@ -20,7 +20,7 @@ data "aws_ami" "amazonimage" {
   }
   
   filter {
-    name   = "architecture-type"
+    name   = "architecture"
     values = ["x86_64"]
   }
 
