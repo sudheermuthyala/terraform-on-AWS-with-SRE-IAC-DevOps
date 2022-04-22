@@ -8,5 +8,5 @@ variable "aws_region" {
 variable "instance_type" {
   description = "instance type"
   type = string
-  default = "t3."
+  default = "t3.medium"
 }
