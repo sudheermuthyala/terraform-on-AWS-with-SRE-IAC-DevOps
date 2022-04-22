@@ -23,14 +23,17 @@ resource "aws_security_group" "allow_ssh" {
   }
 }
 
+
+## 
+
 resource "aws_security_group" "allow_web" {
   name        = "allow_web"
   description = "Allow TLS inbound traffic"
 
   ingress {
     description      = "TLS from VPC"
-    from_port        = 22
-    to_port          = 22
+    from_port        = 80
+    to_port          = 80
     protocol         = "tcp"
     cidr_blocks      = ["0.0.0.0/0"]
   }
