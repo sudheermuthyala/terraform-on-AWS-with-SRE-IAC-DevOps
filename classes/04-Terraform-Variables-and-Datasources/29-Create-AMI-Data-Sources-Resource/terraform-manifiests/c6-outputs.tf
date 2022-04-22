@@ -1,4 +1,4 @@
-output "aws_instance.Myec2" {
+output "aws_instance_publicip" {
     description = "value"
   
 }
