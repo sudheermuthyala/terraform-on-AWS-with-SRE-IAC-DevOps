@@ -11,3 +11,4 @@ resource "aws_instance" "Myec2" {
     Name = "DemoEc2-1"
   }
 }
+
