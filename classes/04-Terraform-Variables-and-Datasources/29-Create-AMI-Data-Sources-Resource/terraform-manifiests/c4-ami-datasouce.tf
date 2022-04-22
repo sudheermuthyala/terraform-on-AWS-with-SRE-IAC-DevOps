@@ -25,10 +25,10 @@ data "aws_ami" "example" {
 }
 
 
-#Centos-7-DevOps-Practice	
+#   Centos-7-DevOps-Practice	
 
 
-amzn2-ami-hvm-*gp2	
+#   amzn2-ami-hvm-*gp2	
 
 
 
