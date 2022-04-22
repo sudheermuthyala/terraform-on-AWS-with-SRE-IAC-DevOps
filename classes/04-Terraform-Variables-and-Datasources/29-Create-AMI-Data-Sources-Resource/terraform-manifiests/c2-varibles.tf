@@ -11,7 +11,7 @@ variable "instance_type" {
   default = "t3.medium"
 }
 
-variable "key_pair" {
+variable "instance_key_pair" {
   description = "keypair"
   type = string
   default = "terraform-k"
