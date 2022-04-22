@@ -6,7 +6,7 @@ data "aws_ami" "amazonimage" {
 
   filter {
     name   = "name"
-    values = ["amzn2-ami-hvm-*gp2"]
+    values = ["amzn2-ami-hvm-*-gp2"]
   }
 
   filter {
