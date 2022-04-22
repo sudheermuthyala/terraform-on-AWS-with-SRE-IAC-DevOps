@@ -16,7 +16,11 @@ data "aws_ami" "example" {
     name   = "virtualization-type"
     values = ["hvm"]
   }
+
+  
 }
 
 
 #Centos-7-DevOps-Practice	
+
+Architecture
