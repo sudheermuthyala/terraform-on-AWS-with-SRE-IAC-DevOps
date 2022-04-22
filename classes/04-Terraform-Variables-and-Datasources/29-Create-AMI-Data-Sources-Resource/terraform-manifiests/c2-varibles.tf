@@ -12,5 +12,6 @@ variable "instance_type" {
 }
 
 variable "key_pair" {
-  description = "value"
+  description = "keypair"
+  type
 }
