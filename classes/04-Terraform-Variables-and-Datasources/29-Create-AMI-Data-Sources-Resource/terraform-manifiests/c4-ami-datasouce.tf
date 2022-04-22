@@ -4,8 +4,7 @@ data "aws_ami" "example" {
 
   filter {
     name   = "name"
-    values = ["amzn2-ami-hvm-*gp2
-"]
+    values = ["amzn2-ami-hvm-*gp2"]
   }
 
   filter {
