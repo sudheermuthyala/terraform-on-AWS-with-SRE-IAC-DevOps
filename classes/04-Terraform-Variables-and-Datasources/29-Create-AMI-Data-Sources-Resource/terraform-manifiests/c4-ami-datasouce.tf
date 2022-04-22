@@ -18,7 +18,7 @@ data "aws_ami" "example" {
   }
   
   filter {
-    name   = "virtualization-type"
+    name   = "Architecture-type"
     values = ["hvm"]
   }
 
@@ -27,4 +27,3 @@ data "aws_ami" "example" {
 
 #Centos-7-DevOps-Practice	
 
-Architecture
