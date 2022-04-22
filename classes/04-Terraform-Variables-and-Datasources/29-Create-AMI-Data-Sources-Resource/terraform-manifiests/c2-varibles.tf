@@ -1,5 +1,6 @@
 variable "aws_region" {
     description = "region"
-    type = "string"
+    type = string
+    
   
 }
