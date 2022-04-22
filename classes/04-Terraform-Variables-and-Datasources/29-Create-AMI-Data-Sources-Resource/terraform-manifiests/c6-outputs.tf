@@ -1,4 +1,4 @@
 output "aws_instance_publicip" {
-    description = "EC@"
+    description = "EC2instance"
   
 }
