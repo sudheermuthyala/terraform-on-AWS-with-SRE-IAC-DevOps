@@ -24,7 +24,7 @@ resource "aws_security_group" "allow_ssh" {
 }
 
 
-## 
+## allow web
 
 resource "aws_security_group" "allow_web" {
   name        = "allow_web"
