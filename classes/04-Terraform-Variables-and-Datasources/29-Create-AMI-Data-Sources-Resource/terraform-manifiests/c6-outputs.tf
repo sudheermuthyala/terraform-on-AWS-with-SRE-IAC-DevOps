@@ -4,6 +4,6 @@ output "aws_instance_publicip" {
   
 }
 
-output "name" {
+output "aws_instance_dns" {
   
 }
