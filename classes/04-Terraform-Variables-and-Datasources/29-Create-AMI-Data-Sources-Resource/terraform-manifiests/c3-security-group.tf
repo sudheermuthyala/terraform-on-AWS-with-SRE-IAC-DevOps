@@ -23,7 +23,7 @@ resource "aws_security_group" "allow_ssh" {
   }
 }
 
-resource "aws_security_group" "allow_ssh" {
+resource "aws_security_group" "allow_web" {
   name        = "allow_ssh"
   description = "Allow TLS inbound traffic"
 
