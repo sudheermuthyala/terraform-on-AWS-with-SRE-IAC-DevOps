@@ -29,7 +29,7 @@ resource "aws_security_group" "allow_ssh" {
 
 
 ## allow web
-aws_security_group
+
 resource "aws_security_group" "allow_web" {
   name        = "allow_web"
   description = "Allow TLS inbound traffic"
