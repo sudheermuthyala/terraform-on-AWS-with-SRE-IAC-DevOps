@@ -3,3 +3,4 @@ output "aws_instance_publicip" {
     value = aws_instance.Myec2.public_ip
   
 }
+
