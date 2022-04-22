@@ -12,5 +12,5 @@ terraform {
 ## Providev Block
 
 provider "aws" {
-    region  = var.
+    region  = var.aws_region
 }
