@@ -22,5 +22,5 @@ variable "instance_key_pair" {
 variable "instance_type_list" {
   description = "Ec2 instance types in List"
   type = list(string)
-  default = [ "" ]
+  default = [ "t3.micro" ]
 }
