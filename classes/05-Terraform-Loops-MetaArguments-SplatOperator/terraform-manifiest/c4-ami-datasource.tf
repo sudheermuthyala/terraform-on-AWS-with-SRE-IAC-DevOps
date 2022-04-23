@@ -1,6 +1,6 @@
 ## Data Source: aws_ami
 data.aws_ami
-data "aws_ami" "rkaluruCO-7" {
+data "aws_ami" "rkalluru-CO-7" {
   most_recent      = true
   owners           = ["amazon"]
 
