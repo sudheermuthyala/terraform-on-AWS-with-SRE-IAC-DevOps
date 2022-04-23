@@ -6,7 +6,7 @@ ata "aws_ami" "example" {
 
   filter {
     name   = "name"
-    values = ["myami-*"]
+    values = ["Centos-7-DevOps-Practice"]
   }
 
   filter {
