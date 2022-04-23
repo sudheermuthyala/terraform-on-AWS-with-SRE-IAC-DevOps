@@ -1,4 +1,4 @@
 ## reagion 
-variable "" {
+variable "aws_region" {
   
 }
