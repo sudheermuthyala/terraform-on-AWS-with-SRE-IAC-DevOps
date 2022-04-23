@@ -19,6 +19,6 @@ variable "instance_key_pair" {
 }
 
 
-variable "" {
+variable "instance_type_list" {
   
 }
