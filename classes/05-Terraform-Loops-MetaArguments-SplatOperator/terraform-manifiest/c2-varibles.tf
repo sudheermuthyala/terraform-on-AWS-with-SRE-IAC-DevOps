@@ -5,6 +5,6 @@ variable "aws_region" {
     default = "us-east-1"
   }
 
-variable "" {
-  
+variable "insyance_type" {
+  description = "value"
 }
