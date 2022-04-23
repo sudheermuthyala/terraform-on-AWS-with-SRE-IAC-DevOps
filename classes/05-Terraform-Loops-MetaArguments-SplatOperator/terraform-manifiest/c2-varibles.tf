@@ -17,3 +17,8 @@ variable "instance_key_pair" {
     default = "terraform-k"
 
 }
+
+
+variable "" {
+  
+}
