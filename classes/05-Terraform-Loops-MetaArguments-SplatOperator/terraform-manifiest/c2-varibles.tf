@@ -29,6 +29,6 @@ variable "instance_type_map" {
     description = "Ec2 instance type in Mape"
     type = map(string)
     default = {
-      "de" = "value"
+      "dev" = ""t3.small"
     }
 }
