@@ -1,5 +1,5 @@
 ## allow ssh 
-resource "aws_security_group" "allow_ssh" {
+resource "app1-install.sh" "allow_ssh" {
   name        = "allow_ssh"
   description = "Allow TLS inbound traffic"
 
