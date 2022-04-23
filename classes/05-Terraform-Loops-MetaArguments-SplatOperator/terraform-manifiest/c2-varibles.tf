@@ -14,6 +14,6 @@ variable "insyance_type" {
 variable "instance_key_pair" {
     description = "instance key pair"
     type = string
-    default = "value"
+    default = "terraform-k"
 
 }
