@@ -1,2 +1,2 @@
-## Resource: aws_ami
+## Resource: aws_instance
 
