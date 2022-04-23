@@ -1,9 +1,7 @@
 ## Data Source: aws_ami
 
 ata "aws_ami" "example" {
-  executable_users = ["self"]
   most_recent      = true
-  name_regex       = "^myami-\\d{3}"
   owners           = ["self"]
 
   filter {
