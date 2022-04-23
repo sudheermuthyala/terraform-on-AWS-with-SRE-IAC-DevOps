@@ -9,7 +9,7 @@ resource "aws_instance" "web" {
   user_data     = file("${path.module}/app1-install.sh")
   vpc_security_group_ids = [ aws_security_group.allow_ssh.id , aws_security_group.allow_web.id]
 
-    
+  co
 
   tags = {
     Name = "HelloWorld"
