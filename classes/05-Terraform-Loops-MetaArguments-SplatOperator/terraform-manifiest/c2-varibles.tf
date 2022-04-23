@@ -8,6 +8,6 @@ variable "aws_region" {
 variable "insyance_type" {
   description = "instance type"
   type = string
-  default = "value"
+  default = "t3.small"
 
 }
