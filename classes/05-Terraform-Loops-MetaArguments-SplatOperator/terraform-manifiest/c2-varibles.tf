@@ -25,6 +25,6 @@ variable "instance_type_list" {
   default = [ "t3.micro" , "t3.small" ] 
 }
 
-variable "" {
+variable "instance_type_map" {
   
 }
