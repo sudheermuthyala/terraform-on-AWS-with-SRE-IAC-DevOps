@@ -11,6 +11,6 @@ variable "insyance_type" {
   default = "t3.small"
 }
 
-variable "" {
+variable "instance_key_pair" {
   
 }
