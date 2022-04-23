@@ -9,5 +9,5 @@ variable "insyance_type" {
   description = "instance type"
   type = string
   default = "t3.small"
-
 }
+
