@@ -20,5 +20,6 @@ variable "instance_key_pair" {
 
 
 variable "instance_type_list" {
-  description = "instance"
+  description = "instance types in List"
+  
 }
