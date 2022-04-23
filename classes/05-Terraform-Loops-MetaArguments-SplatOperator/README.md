@@ -1,5 +1,3 @@
-## https://github.com/sudheermuthyala/terraform-/tree/main/03-terraform-resources/39-Breafe-About-terraform-Resource-Meta-Aurgements
-
 # Terraform For Loops, Lists, Maps and Count Meta-Argument
 
 ## Step-00: Pre-requisite Note
@@ -63,3 +61,4 @@ count = 2
     "Name" = "Count-Demo-${count.index}"
   }
 ```
+
