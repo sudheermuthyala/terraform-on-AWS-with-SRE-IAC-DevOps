@@ -1,5 +1,5 @@
 # Terraform For Loops, Lists, Maps and Count Meta-Argument
-- [Reference](https://github.com/sudheermuthyala/terraform-/tree/main/03-terraform-resources/39-Breafe-About-terraform-Resource-Meta-Aurgements)
+- [MetaReference](https://github.com/sudheermuthyala/terraform-/tree/main/03-terraform-resources/39-Breafe-About-terraform-Resource-Meta-Aurgements)
 
 ## Step-00: Pre-requisite Note
 - We are using the `default vpc` in `us-east-1` region
