@@ -20,7 +20,7 @@ variable "instance_key_pair" {
 
 
 variable "instance_type_list" {
-  description = "instance types in List"
+  description = "Ec2 instance types in List"
   type = list(string)
   default = [ "" ]
 }
