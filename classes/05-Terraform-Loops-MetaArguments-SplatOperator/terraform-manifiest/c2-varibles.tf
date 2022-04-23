@@ -1,5 +1,5 @@
 ## reagion 
 variable "aws_region" {
-    description = "this is the "
+    description = "This is the tegipn "
   
 }
