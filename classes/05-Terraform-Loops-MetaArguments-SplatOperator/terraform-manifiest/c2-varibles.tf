@@ -11,3 +11,6 @@ variable "insyance_type" {
   default = "t3.small"
 }
 
+variable "" {
+  
+}
