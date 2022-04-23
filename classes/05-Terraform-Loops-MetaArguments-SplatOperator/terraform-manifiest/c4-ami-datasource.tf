@@ -18,4 +18,7 @@ ata "aws_ami" "example" {
     name   = "virtualization-type"
     values = ["hvm"]
   }
+  architecture
+
+  
 }
