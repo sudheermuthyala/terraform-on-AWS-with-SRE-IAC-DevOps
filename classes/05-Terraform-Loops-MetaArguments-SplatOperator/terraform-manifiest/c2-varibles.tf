@@ -7,5 +7,6 @@ variable "aws_region" {
 
 variable "insyance_type" {
   description = "instance type"
-  type = 
+  type = string
+
 }
