@@ -12,5 +12,6 @@ variable "insyance_type" {
 }
 
 variable "instance_key_pair" {
-  
+    
+
 }
