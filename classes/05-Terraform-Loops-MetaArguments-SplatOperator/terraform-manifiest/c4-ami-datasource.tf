@@ -1,6 +1,6 @@
 ## Data Source: aws_ami
 
-ata "aws_ami" "example" {
+data "aws_ami" "example" {
   most_recent      = true
   owners           = ["amazon"]
 
