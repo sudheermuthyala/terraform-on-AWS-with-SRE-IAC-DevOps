@@ -1,7 +1,4 @@
 ## allow ssh 
-
-
-
 resource "aws_security_group" "allow_ssh" {
   name        = "allow_ssh"
   description = "Allow TLS inbound traffic"
@@ -29,7 +26,6 @@ resource "aws_security_group" "allow_ssh" {
 
 
 ## allow web
-
 resource "aws_security_group" "allow_web" {
   name        = "allow_web"
   description = "Allow TLS inbound traffic"
