@@ -1,0 +1,2 @@
+## Resource: aws_ami
+
