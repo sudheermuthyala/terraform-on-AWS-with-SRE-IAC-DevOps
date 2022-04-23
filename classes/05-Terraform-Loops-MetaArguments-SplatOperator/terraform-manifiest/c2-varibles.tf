@@ -31,6 +31,6 @@ variable "instance_type_map" {
     default = {
       "dev" = "t3.small"
        "qa" = "t3.micro"
-       
+    "prod"
     }
 }
