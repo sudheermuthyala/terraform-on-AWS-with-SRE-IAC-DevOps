@@ -19,6 +19,6 @@ output "for_loop_with_list" {
 
 output "for_loop_with_map" {
     description = "for loop with map"
-    value = {for instance in aws_instance.myec2vm: }
+    value = {for instance in aws_instance.myec2vm: insy}
   
 }
