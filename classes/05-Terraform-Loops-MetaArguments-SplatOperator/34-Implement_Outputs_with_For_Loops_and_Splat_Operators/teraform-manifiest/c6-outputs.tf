@@ -18,7 +18,7 @@ output "for_loop_with_list" {
 ## Output for loop with map
 
 output "for_loop_with_map_1" {
-    description = "for loop with map"
+    description = "for loop with map-1"
     value = {for instance in aws_instance.myec2vm: instance.id => instance.public_dns}
   
 }
