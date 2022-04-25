@@ -64,4 +64,4 @@ count = 2
 ```
 
 
-Implement_Outputs_with For Loops and Splat Operators
+Implement_Outputs_with_For_Loops_and_Splat Operators
