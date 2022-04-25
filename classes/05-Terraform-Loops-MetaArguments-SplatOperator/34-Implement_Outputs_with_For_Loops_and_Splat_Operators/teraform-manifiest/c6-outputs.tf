@@ -10,7 +10,7 @@
 ## Output for loop with List
 output "for_loop_with_list" {
     description     = "for loop with loop"
-    value           = [for]
+    value           = [for instance in ]
   
 }
 
