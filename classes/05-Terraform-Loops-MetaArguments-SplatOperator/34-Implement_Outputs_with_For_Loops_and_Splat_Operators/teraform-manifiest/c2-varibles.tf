@@ -30,6 +30,6 @@ variable "instance_type_list" {
 }
 
 ## varibles for instance type  list
-variable "" {
+variable "instance_type_map" {
   
 }
