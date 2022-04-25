@@ -25,7 +25,7 @@ variable "key_name" {
 variable "instance_type_list" {
     description = "ec2 instance type list"
     type = list(string)
-    default = [ "t2.micro", "t3.small", "t3.large" ]
+    default = [ "t3.micro", "t3.small", "t3.large" ]
   
 }
 
@@ -34,7 +34,7 @@ variable "instance_type_map" {
   description = "Ec2 instance type mape"
   type = map(string)
   default = {
-    "dev" = "value"
+    "dev" = "t3.small"
     "qa"
   }
 }
