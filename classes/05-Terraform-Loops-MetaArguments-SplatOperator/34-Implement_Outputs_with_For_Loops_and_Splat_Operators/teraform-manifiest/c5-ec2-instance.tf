@@ -1,6 +1,6 @@
 resource "aws_instance" "web" {
   ami           = data.aws_ami.my_rk_ami.id
-  instance_type = ""
+  instance_type = var
 
   tags = {
     Name = "HelloWorld"
