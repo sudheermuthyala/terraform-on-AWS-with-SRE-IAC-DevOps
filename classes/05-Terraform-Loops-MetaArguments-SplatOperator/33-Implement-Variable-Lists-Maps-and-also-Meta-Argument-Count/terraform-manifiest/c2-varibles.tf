@@ -18,7 +18,7 @@ variable "instance_key_pair" {
 
 }
 
-
+## varibles fpr
 variable "instance_type_list" {
   description = "Ec2 instance types in List"
   type = list(string)
