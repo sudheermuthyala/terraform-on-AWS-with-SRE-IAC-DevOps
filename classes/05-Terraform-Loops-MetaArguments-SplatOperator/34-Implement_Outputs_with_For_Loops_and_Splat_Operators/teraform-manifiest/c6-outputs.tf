@@ -8,7 +8,7 @@
 */
 
 ## Output for loop with List
-output "name" {
+output "for_loop_with" {
   
 }
 
