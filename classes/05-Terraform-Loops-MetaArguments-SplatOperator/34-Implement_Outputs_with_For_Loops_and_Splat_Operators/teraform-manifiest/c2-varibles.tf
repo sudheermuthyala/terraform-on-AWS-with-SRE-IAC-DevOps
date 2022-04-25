@@ -31,5 +31,5 @@ variable "instance_type_list" {
 
 ## varibles for instance type  list
 variable "instance_type_map" {
-  
+  description = "value"
 }
