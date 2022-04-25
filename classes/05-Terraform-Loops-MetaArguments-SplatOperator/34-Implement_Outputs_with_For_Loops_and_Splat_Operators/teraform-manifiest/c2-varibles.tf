@@ -24,7 +24,7 @@ variable "key_name" {
 
 variable "instance_type_list" {
     description = "ec2 instance type list"
-    type = string
+    type = list
     default = []
   
 }
