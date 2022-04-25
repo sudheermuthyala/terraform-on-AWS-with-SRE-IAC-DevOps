@@ -8,5 +8,8 @@
 */
 
 ## Output for loop with List
+output "name" {
+  
+}
 
 
