@@ -18,7 +18,7 @@ variable "instance_key_pair" {
 
 }
 
-## varibles for 
+## varibles for instance type
 variable "instance_type_list" {
   description = "Ec2 instance types in List"
   type = list(string)
