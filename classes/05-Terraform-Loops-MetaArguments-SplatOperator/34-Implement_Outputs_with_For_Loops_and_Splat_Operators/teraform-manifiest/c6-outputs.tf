@@ -27,3 +27,6 @@ output "for_loop_with_map_2_Advanced" {
   description = "for loop with map-2"
   value = {for m, instance in aws_instance.myec2vm: m => instance.public_dns}
 }
+
+
+o
