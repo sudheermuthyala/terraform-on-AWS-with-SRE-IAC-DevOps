@@ -39,6 +39,6 @@ output "Legacy_Splat_Operator" {
 
 # Output Latest Generalized Splat Operator - Returns the List
 
-output "Latest_Generalized_" {
+output "Latest_Generalized_Splat_Operator" {
   
 }
