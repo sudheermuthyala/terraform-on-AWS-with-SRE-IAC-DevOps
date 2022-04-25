@@ -9,5 +9,5 @@ variable "aws_region" {
 variable "instance_type" {
   description = "instance type"
   type = string
-  default = "value"
+  default = "t2.micr"
 }
