@@ -41,4 +41,5 @@ output "Legacy_Splat_Operator" {
 
 output "Latest_Generalized_Splat_Operator" {
   description = "Latest Generalized Splat Operator - Returns the List"
+  value = 
 }
