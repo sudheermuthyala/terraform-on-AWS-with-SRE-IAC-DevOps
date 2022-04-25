@@ -15,5 +15,5 @@ variable "instance_type" {
 
 variable "key_name" {
   description = "instance key name"
-  type = 
+  type = srting 
 }
