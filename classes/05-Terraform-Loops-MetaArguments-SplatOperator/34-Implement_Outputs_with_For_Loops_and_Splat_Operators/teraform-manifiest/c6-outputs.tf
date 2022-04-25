@@ -23,5 +23,5 @@ output "for_loop_with_map_1" {
   
 }
 output "for_loop_with_map_2" {
-  
+  description = "value"
 }
