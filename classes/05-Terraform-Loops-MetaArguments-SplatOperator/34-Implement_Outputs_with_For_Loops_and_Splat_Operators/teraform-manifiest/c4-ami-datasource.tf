@@ -4,7 +4,7 @@ data "aws_ami" "amazonimage" {
 
   filter {
     name   = "name"
-    values = ["Centos-7-DevOps-Practice"]
+    values = ["amzn2-ami-hvm-*-gp2"]
   }
 
   filter {
