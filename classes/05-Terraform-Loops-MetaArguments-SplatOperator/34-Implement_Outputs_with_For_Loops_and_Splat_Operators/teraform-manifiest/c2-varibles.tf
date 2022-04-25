@@ -35,6 +35,6 @@ variable "instance_type_map" {
   type = map(string)
   default = {
     "dev" = "value"
-    ""
+    "qa"
   }
 }
