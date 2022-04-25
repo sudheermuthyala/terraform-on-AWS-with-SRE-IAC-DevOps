@@ -13,6 +13,6 @@ variable "instance_type" {
 }
 ## key_name
 
-variable "" {
-  
+variable "key_name" {
+  description = "value"
 }
