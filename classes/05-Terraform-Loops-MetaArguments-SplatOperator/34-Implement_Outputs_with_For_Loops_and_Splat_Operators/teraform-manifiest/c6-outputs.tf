@@ -36,3 +36,5 @@ output "Legacy_Splat_Operator" {
     value = aws_instance.myec2vm.*.public_dns
   
 }
+
+
