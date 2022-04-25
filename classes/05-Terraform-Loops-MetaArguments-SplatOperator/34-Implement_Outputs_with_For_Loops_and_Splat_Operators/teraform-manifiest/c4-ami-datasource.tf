@@ -1,4 +1,4 @@
-data.
+data.aws_ami.my_rk_ami
 
 data "aws_ami" "my_rk_ami" {
   most_recent      = true
