@@ -10,6 +10,6 @@ resource "aws_instance" "myec2vm" {
 
 
   tags = {
-    Name = "Demo"
+    Name = "Demo-${count.index}"
   }
 }
