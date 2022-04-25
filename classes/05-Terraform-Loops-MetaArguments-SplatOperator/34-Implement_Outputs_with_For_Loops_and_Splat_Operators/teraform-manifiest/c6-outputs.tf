@@ -23,6 +23,7 @@ output "for_loop_with_map_1" {
 }
 # Output - For Loop with Map Advanced
 
-output "for_loop_with_map_2_" {
+output "for_loop_with_map_2_Advanced" {
   description = "for loop with map-2"
+  
 }
