@@ -7,5 +7,5 @@ variable "aws_region" {
 ## instance_type
 
 variable "instance_type" {
-  
+  description = "value"
 }
