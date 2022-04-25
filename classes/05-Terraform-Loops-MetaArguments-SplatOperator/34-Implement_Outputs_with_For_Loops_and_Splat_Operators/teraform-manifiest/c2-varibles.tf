@@ -22,6 +22,6 @@ variable "key_name" {
 
 ## varibles for instance type  list
 
-variable "inst" {
+variable "instance_type_list" {
   
 }
