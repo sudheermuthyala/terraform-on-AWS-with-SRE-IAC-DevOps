@@ -23,6 +23,6 @@ variable "key_name" {
 ## varibles for instance type  list
 
 variable "instance_type_list" {
-    description = "value"
+    description = "## varibles for instance type  list"
   
 }
