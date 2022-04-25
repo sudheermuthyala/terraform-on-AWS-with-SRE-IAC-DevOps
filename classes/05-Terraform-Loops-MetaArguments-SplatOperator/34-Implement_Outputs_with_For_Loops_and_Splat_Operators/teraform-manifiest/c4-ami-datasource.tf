@@ -1,6 +1,6 @@
 data "aws_ami" "amazonimage" {
   most_recent      = true
-  owners           = ["aws-marketplace"]
+  owners           = ["amazon"]
 
   filter {
     name   = "name"
