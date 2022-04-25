@@ -30,6 +30,7 @@ output "for_loop_with_map_2_Advanced" {
 
 
 # output Legacy Splat Operator (Legacy) - Returns List
+## We are going to comment the legacy splat operator, which might be decommissioned in future versions
 
 
 output "Legacy_Splat_Operator" {
