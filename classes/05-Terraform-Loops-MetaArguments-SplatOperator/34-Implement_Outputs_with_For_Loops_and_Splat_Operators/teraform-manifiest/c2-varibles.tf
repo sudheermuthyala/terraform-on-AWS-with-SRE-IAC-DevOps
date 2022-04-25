@@ -14,5 +14,6 @@ variable "instance_type" {
 ## key_name
 
 variable "key_name" {
-  description = "instance "
+  description = "instance key name"
+  type = 
 }
