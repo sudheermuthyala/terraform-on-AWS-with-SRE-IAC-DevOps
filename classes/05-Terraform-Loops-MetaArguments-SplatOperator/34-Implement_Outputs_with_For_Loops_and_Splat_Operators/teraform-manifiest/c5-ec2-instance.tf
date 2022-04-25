@@ -6,7 +6,9 @@ resource "aws_instance" "myec2vm" {
   key_name                  = var.key_name
   user_data                 = file("${path.module}/app1-install.sh")
   vpc_security_group_ids    =     [ aws_security_group.allow_ssh.id , aws_security_group.allow_web.id ]
-  coun
+  count = 2
+
+  
   tags = {
     Name = "HelloWorld"
   }
