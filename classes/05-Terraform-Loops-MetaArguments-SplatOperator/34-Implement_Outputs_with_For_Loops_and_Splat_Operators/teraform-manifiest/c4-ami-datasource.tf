@@ -1,4 +1,4 @@
-aws_ami.
+aws_ami.amazonimage.
 
 data "aws_ami" "amazonimage" {
   most_recent      = true
