@@ -38,3 +38,4 @@ output "Legacy_Splat_Operator" {
 }
 
 
+# Legacy Splat Operator (Legacy) - Returns List
