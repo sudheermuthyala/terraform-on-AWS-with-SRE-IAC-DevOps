@@ -25,6 +25,7 @@ variable "instance_type_list" {
   default = [ "t3.micro" , "t3.small" ] 
 }
 
+## varibles for instance type map
 variable "instance_type_map" {
     description = "Ec2 instance type in Mape"
     type = map(string)
