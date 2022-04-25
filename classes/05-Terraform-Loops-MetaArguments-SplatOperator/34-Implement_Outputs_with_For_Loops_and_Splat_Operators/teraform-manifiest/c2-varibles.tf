@@ -1,3 +1,4 @@
 variable "aws_region" {
-  description = "aws region "
+  description = "aws region launch the servers"
+  
 }
