@@ -20,6 +20,7 @@ variable "key_name" {
   default = "terraform-k"
 }
 
+## varibles for instance type  list
 
 variable "instance_type_list" {
     description = "ec2 instance type list"
@@ -28,3 +29,7 @@ variable "instance_type_list" {
   
 }
 
+## varibles for instance type  list
+variable "" {
+  
+}
