@@ -20,3 +20,5 @@ variable "key_name" {
   default = "terraform-k"
 }
 
+## varibles for instance type  list
+
