@@ -1,4 +1,4 @@
-resource "aws_instance" "web" {
+resource "aws_instance" "my" {
   ami                       = data.aws_ami.amazonimage.id
   #instance_type             = var.instance_type
   instance_type             = var.instance_type_list[1]
