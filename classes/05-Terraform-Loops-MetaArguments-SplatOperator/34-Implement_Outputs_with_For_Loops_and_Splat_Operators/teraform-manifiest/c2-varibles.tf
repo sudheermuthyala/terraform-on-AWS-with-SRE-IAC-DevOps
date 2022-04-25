@@ -32,5 +32,5 @@ variable "instance_type_list" {
 ## varibles for instance type  list
 variable "instance_type_map" {
   description = "Ec2 instance type mape"
-  type = 
+  type = map()
 }
