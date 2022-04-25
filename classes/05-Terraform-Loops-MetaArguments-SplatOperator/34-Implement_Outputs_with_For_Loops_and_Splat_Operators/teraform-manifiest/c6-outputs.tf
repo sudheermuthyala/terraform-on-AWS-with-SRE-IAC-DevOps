@@ -22,3 +22,6 @@ output "for_loop_with_map_1" {
     value = {for instance in aws_instance.myec2vm: instance.id => instance.public_dns}
   
 }
+output "for_loop_with_map_2" {
+  
+}
