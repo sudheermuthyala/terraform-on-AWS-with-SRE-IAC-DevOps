@@ -18,7 +18,7 @@ data "aws_ami" "example" {
   }
 
    filter {
-    name   = "virtualization-type"
+    name   = "architecture"
     values = ["hvm"]
   }
 }
