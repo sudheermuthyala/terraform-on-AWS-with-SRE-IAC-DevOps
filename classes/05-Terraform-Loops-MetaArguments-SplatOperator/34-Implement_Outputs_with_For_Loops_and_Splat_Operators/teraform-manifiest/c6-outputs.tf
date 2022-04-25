@@ -45,4 +45,3 @@ output "Latest_Generalized_Splat_Operator" {
   description = "Latest Generalized Splat Operator - Returns the List"
   value = aws_instance.myec2vm[*].public_dns
 }
-jhbb
