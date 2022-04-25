@@ -4,3 +4,8 @@ variable "aws_region" {
   default = "us-east-1"
 }
 
+## instance_type
+
+variable "my_" {
+  
+}
