@@ -1,4 +1,4 @@
-data "aws_ami" "example" {
+data "aws_ami" "my" {
   most_recent      = true
   owners           = ["amazon"]
 
