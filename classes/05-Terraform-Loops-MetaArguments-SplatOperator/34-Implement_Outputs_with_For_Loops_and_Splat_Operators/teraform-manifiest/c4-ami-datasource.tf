@@ -19,6 +19,6 @@ data "aws_ami" "example" {
 
    filter {
     name   = "architecture"
-    values = ["hvm"]
+    values = ["x86_64"]
   }
 }
