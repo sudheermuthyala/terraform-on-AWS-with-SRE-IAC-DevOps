@@ -31,6 +31,6 @@ output "for_loop_with_map_2_Advanced" {
 
 # Legacy Splat Operator (Legacy) - Returns List
 
-output "name" {
+output "Legacy Splat Operator" {
   
 }
