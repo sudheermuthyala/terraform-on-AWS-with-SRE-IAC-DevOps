@@ -64,3 +64,4 @@ count = 2
 ```
 
 
+34. Step-02: Implement Outputs with For Loops and Splat Operators
