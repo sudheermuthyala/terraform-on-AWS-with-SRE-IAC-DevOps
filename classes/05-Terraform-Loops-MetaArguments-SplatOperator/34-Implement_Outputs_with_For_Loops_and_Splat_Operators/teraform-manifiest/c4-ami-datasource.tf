@@ -4,7 +4,7 @@ data "aws_ami" "example" {
 
   filter {
     name   = "name"
-    values = ["Centos-7-DevOps-Practice-*"]
+    values = ["Centos-7-DevOps-Practice"]
   }
 
   filter {
@@ -16,4 +16,5 @@ data "aws_ami" "example" {
     name   = "virtualization-type"
     values = ["hvm"]
   }
+  
 }
