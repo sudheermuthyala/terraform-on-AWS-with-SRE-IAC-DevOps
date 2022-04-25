@@ -29,4 +29,6 @@ output "for_loop_with_map_2_Advanced" {
 }
 
 
-o
+output "name" {
+  
+}
