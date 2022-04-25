@@ -34,6 +34,6 @@ variable "instance_type_map" {
   description = "Ec2 instance type mape"
   type = map(string)
   default = {
-    "key" = "value"
+    "dev" = "value"
   }
 }
