@@ -31,6 +31,7 @@ output "for_loop_with_map_2_Advanced" {
 
 # output Legacy Splat Operator (Legacy) - Returns List
 
+
 output "Legacy_Splat_Operator" {
     description = "Legacy Splat Expression"
     value = aws_instance.myec2vm.*.public_dns
