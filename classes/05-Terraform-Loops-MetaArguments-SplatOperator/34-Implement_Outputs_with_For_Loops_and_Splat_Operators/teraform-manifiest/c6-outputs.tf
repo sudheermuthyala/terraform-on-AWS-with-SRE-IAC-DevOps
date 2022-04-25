@@ -11,7 +11,6 @@
 output "for_loop_with_list" {
     description     = "for loop with loop"
     value           = [for instance in aws_instance.myec2vm: instance.public_dns]
- #   value = aws_instance.myec2vm.public_dns
 }
 
 
