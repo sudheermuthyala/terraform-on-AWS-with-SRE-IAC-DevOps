@@ -18,5 +18,6 @@ output "for_loop_with_list" {
 ## Output for loop with map
 
 output "for_loop_with_map" {
+    description = "value"
   
 }
