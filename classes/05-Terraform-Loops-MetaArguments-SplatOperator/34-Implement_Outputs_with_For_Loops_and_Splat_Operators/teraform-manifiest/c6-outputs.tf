@@ -10,7 +10,7 @@
 ## Output for loop with List
 output "for_loop_with_list" {
     description     = "for loop with loop"
-    value           = [for instance in aws_instance.web: in]
+    value           = [for instance in aws_instance.web: instance.pub]
   
 }
 
