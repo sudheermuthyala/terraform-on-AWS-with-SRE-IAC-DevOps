@@ -6,6 +6,6 @@ variable "aws_region" {
 
 ## instance_type
 
-variable "my_" {
+variable "instance_type" {
   
 }
