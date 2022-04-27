@@ -11,7 +11,7 @@ resource "aws_instance" "myec2vm" {
 
 
   tags = {
-    Name  = ""
+    Name  = "myec2vm"
   }
   
 
