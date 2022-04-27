@@ -12,4 +12,4 @@ variable "instance_type" {
   default = "t3.small"
 }
 
-## list varible for instance
+## list varible for instance ty
