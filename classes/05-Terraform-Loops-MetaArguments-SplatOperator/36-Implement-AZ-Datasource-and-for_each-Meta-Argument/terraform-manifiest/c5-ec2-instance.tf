@@ -4,6 +4,8 @@ resource "aws_instance" "myec2vm" {
   #instance_type = var.instance_type_list[1]
   instance_type = var.instance_type_map["prod"]
   key_name = var.key_name
+
+  
   
 
 }
