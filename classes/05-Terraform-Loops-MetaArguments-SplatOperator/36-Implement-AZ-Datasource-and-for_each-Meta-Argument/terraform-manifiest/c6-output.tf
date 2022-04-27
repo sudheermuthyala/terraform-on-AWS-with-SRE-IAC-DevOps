@@ -1,3 +1,3 @@
-output "for_loop_with" {
+output "for_loop_with_list" {
   
 }
