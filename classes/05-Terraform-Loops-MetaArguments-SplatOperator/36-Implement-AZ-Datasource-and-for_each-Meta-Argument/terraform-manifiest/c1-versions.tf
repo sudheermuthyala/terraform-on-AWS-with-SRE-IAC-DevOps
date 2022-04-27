@@ -8,7 +8,7 @@ terraform {
     }    
 }
 
-provider "aws" {    ## this 
+provider "aws" {    ## this will take default profile
 #   profile = ""        
 #   region = ""
 }
