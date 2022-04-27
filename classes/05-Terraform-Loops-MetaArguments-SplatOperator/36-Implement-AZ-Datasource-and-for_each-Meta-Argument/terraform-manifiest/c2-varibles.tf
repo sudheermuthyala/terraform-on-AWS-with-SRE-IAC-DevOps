@@ -5,7 +5,7 @@ variable "aws_region" {
 }
 
 
-# Default Varible instance type
+# Default Varible Instance ype
 variable "instance_type" {
   description = "instance_type"
   type = string
