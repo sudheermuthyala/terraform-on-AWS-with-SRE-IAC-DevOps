@@ -14,4 +14,6 @@ variable "instance_type" {
 
 ## list varible for instance type
 
-varibl
+variable "instance_type_list" {
+  
+}
