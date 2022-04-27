@@ -17,5 +17,5 @@ variable "instance_type" {
 variable "instance_type_list" {
   description = "List of varibles for instance type"
   type = list(string)
-  default = [ "" ]
+  default = [ "t3.small" , "t3" ]
 }
