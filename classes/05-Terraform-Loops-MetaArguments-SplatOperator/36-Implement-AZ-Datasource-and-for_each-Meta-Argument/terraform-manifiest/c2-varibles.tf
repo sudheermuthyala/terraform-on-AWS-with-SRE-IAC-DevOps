@@ -25,7 +25,7 @@ variable "instance_type_list" {
   default = [ "t3.small" , "t3.micro" , "t3.large" ] 
 }
 
-variable "instance_type_mape" {
+variable "instance_type_map" {
     description = "Mape of varibles for instance type"
     type =  map(string)
     default = {
