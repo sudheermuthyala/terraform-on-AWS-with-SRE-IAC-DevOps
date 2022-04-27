@@ -10,7 +10,9 @@ resource "aws_instance" "myec2vm" {
 
 
 
-  tags =
+  tags = {
+    Name
+  }
   
 
 }
