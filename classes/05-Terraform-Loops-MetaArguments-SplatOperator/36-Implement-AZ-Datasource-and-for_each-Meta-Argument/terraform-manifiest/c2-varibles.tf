@@ -21,6 +21,6 @@ variable "instance_type_list" {
 }
 
 variable "instance_type_mape" {
-    description = "Mape of "
+    description = "Mape of varibles for instance type"
   
 }
