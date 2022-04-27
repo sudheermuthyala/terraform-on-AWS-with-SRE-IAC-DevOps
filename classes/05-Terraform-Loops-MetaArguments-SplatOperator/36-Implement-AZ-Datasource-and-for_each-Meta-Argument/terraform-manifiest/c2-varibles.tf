@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "key_name" {
   description = "key name for instance"
   type = string
-  default = "terra"
+  default = "terraform-k"
 }
 
 # Default Varible Instance type
