@@ -15,5 +15,5 @@ variable "instance_type" {
 ## list varible for instance type
 
 variable "instance_type_list" {
-  description = "varibles for instance "
+  description = "varibles for instance inthe"
 }
