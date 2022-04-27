@@ -8,7 +8,7 @@ terraform {
     }    
 }
 
-provider "aws" {
-#   profile = ""
+provider "aws" {    ## this 
+#   profile = ""        
 #   region = ""
 }
