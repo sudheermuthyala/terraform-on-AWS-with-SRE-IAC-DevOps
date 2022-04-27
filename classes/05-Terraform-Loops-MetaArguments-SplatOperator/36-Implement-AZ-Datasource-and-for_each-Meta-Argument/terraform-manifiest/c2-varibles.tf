@@ -24,7 +24,8 @@ variable "instance_type_mape" {
     description = "Mape of varibles for instance type"
     type =  map(string)
     default = {
-      "dev" = "value"
+      "dev" = "t3.small"
+      
     }
   
 }
