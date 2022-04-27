@@ -1,7 +1,7 @@
 
 data "aws_ami" "amazonimage" {
 
-  
+  data.aws_ami.
   most_recent      = true
   owners           = ["amazon"]
 
