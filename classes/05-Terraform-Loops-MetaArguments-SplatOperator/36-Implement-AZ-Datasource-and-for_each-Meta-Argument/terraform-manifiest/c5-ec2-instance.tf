@@ -1,3 +1,3 @@
 resource "aws_instance" "myec2vm" {
-  ami         =
+  ami         =  data.aws_ami.amazonimage
 }
