@@ -5,7 +5,8 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  description = "key "
+  description = "key name for instance"
+  
   default = 
 }
 
