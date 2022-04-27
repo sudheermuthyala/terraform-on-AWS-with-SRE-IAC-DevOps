@@ -5,11 +5,13 @@ variable "aws_region" {
 }
 
 
-# Default Varible Instance ype
+# Default Varible Instance type
 variable "instance_type" {
   description = "instance_type"
   type = string
   default = "t3.small"
 }
 
-## list varible for instance ty
+## list varible for instance type
+
+varibl
