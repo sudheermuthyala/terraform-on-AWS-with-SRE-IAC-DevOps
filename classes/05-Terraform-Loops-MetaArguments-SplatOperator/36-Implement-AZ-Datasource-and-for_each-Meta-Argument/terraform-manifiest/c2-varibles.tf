@@ -6,8 +6,8 @@ variable "aws_region" {
 
 variable "key_name" {
   description = "key name for instance"
-  
-  default = 
+  type = string
+  default = "terra"
 }
 
 # Default Varible Instance type
