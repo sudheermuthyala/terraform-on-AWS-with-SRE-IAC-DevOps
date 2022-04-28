@@ -8,8 +8,7 @@
 */
 
 ## Output for loop with List
-
-while 
+## while dealing with list 
 output "for_loop_with_list" {
     description     = "for loop with loop"
     value           = [for instance in aws_instance.myec2vm: instance.public_dns]
