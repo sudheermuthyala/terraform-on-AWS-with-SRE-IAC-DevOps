@@ -6,7 +6,7 @@ data "aws_availability_zones" "example" {
   }
 }
 
-dat
+data.aws_availability_zones
 ## Resource: aws_instance
 resource "aws_instance" "myec2vm" {
   count       =   2
