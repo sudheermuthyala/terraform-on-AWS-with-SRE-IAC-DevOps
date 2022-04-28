@@ -17,7 +17,7 @@ output "for_loop_with_list" {
 
 
 ## Output for loop with map
-## while dealing with map we have to provide "" 
+## while dealing with map we have to provide "Key" = "value" 
 
 output "for_loop_with_map_1" {
     description = "for loop with map-1"
