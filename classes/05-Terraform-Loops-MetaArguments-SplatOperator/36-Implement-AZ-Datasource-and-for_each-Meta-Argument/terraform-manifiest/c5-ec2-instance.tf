@@ -1,4 +1,4 @@
-##  
+##  Data Source: aws_availability_zones
 data "aws_availability_zones" "example" {
   all_availability_zones = true
 
