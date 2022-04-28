@@ -1,5 +1,8 @@
+
+
+## e
 resource "aws_instance" "myec2vm" {
-    count       =   2
+  count       =   2
   ami         =  data.aws_ami.amazonimage.id
   #instance_type = var.instance_type
   #instance_type = var.instance_type_list[1]
