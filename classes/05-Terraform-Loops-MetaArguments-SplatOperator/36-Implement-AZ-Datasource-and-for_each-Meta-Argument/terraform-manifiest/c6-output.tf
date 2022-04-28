@@ -22,6 +22,6 @@ output "for_loop_with_map_2" {
 
 output "Legacy_Splat_Operator" {
     description = "Legacy splat Operator"
-    value = aws_instance.myec2vm
+    value = aws_instance.myec2vm.*.
   
 }
