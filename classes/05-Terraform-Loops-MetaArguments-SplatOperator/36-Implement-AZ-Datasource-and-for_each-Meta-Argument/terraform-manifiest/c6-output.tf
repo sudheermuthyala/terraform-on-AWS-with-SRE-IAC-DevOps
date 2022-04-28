@@ -37,6 +37,7 @@ output "Latest_Generalized_Splat_Operator" {
   
 }
 
-output "name" {
+output "AZ" {
+    value = 
   
 }
