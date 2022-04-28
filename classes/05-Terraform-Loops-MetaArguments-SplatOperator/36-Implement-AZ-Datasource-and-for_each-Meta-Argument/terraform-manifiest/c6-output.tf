@@ -5,6 +5,6 @@ output "for_loop_with_list" {
 }
 
 
-output "name" {
+output "for_loop_with_list" {
   
 }
