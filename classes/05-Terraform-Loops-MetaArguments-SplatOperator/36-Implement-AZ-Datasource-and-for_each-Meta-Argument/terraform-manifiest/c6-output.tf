@@ -38,6 +38,6 @@ output "Latest_Generalized_Splat_Operator" {
 }
 
 output "AZ" {
-    value = 
+    value = ata.aws_availability_zones.my_AZ_zones.names
   
 }
