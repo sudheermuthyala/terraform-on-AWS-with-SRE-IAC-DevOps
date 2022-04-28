@@ -20,6 +20,6 @@ output "for_loop_with_map_2" {
   value = {for c, instance in aws_instance.myec2vm: c=> instance.public_dns}
 }
 
-output "name" {
+output "Legacy_Splat_Operator" {
   
 }
