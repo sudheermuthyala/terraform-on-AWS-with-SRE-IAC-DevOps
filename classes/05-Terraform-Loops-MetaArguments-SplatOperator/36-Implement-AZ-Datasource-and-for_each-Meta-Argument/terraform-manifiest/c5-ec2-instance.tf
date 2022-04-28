@@ -1,12 +1,12 @@
 ##  Data Source: aws_availability_zones
-data "aws_availability_zones" "my_AZ" {
+data "aws_availability_zones" "my_AZ_zones" {
   filter {
     name   = "opt-in-status"
     values = ["opt-in-not-required"]
   }
 }
 
-data.aws_availability_zones.example 
+data.aws_availability_zones.my_AZ_zones.
 ## Resource: aws_instance
 resource "aws_instance" "myec2vm" {
   count       =   2
