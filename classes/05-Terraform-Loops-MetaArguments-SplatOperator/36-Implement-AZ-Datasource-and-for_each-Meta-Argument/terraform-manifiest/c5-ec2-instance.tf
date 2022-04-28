@@ -1,6 +1,16 @@
+data "aws_availability_zones" "example" {
+  all_availability_zones = true
+
+  filter {
+    name   = "opt-in-status"
+    values = ["not-opted-in", "opted-in"]
+  }
+}
 
 
-## e
+
+
+## 
 resource "aws_instance" "myec2vm" {
   count       =   2
   ami         =  data.aws_ami.amazonimage.id
