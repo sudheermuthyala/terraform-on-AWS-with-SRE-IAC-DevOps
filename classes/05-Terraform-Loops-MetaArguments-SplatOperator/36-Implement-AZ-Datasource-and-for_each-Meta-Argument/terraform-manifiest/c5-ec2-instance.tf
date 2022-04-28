@@ -5,7 +5,7 @@ data "aws_availability_zones" "my_AZ_zones" {
     values = ["opt-in-not-required"]
   }
 }
-#data.aws_availability_zones.my_AZ_zones.names  this will provide 
+#data.aws_availability_zones.my_AZ_zones.names  this will provide the list values of aZ
 
 ## Resource: aws_instance
 resource "aws_instance" "myec2vm" {
