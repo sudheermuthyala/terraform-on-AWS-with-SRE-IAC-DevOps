@@ -7,8 +7,6 @@ output "for_loop_with_list" {
 
 output "for_loop_with_list" {
     description = "for loop with map"
-    value = {
-        
-    }
+    value = {for in     }
   
 }
