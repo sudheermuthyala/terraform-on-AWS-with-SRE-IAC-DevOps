@@ -20,6 +20,9 @@ output "for_loop_with_map_2" {
   value = {for c, instance in aws_instance.myec2vm: c=> instance.public_dns}
 }
 
+
+# output Legacy Splat Operator (Legacy) - Returns List
+## We are going to comment the legacy splat operator, which might be decommissioned in future versions
 output "Legacy_Splat_Operator" {
     description = "Legacy splat Operator"
     value = aws_instance.myec2vm.*.public_dns
