@@ -6,5 +6,6 @@ output "for_loop_with_list" {
 
 
 output "for_loop_with_list" {
+    description = "value"
   
 }
