@@ -33,6 +33,6 @@ output "Legacy_Splat_Operator" {
 
 output "Latest_Generalized_Splat_Operator" {
     description = " latest Generalized Operator"
-    value = 
+    value = aws_instance.myec2vm[*]
   
 }
