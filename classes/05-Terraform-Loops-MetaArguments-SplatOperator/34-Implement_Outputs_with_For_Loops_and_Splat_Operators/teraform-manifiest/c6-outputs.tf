@@ -8,7 +8,7 @@
 */
 
 ## Output for loop with List
-# while we dealing with List we provide only "value"
+# while we dealing with List we provide only ["value"]
 output "for_loop_with_list" {
     description     = "for loop with loop"
     value           = [for instance in aws_instance.myec2vm: instance.public_dns]
