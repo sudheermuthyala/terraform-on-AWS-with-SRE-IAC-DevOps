@@ -22,7 +22,7 @@ resource "aws_instance" "myec2vm" {
   vpc_security_group_ids = [ aws_security_group.allow_ssh.id, aws_security_group.allow_web.id ]
   user_data = file("${path.module}/app1-install.sh")
   ## Create EC2 Instance in All avillablity zone of a VPC
-  availability_zone = 
+  availability_zone = ""
 
 
 
