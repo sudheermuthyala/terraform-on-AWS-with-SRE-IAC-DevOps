@@ -6,9 +6,6 @@ data "aws_availability_zones" "example" {
   }
 }
 
-
-
-
 ## Resource: aws_instance
 resource "aws_instance" "myec2vm" {
   count       =   2
