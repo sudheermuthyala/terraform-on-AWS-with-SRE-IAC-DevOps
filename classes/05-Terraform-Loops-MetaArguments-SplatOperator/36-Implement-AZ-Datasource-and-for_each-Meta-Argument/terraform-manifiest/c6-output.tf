@@ -21,5 +21,6 @@ output "for_loop_with_map_2" {
 }
 
 output "Legacy_Splat_Operator" {
+    description = "La"
   
 }
