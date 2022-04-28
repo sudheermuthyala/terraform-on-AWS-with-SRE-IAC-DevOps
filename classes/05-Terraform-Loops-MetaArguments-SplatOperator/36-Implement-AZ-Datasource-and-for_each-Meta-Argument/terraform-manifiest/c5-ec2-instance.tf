@@ -5,8 +5,8 @@ data "aws_availability_zones" "my_AZ_zones" {
     values = ["opt-in-not-required"]
   }
 }
+#data.aws_availability_zones.my_AZ_zones.names
 
-data.aws_availability_zones.my_AZ_zones.names
 ## Resource: aws_instance
 resource "aws_instance" "myec2vm" {
   count       =   2
