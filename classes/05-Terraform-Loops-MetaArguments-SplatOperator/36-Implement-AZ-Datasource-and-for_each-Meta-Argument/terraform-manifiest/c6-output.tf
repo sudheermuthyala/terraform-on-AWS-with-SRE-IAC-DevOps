@@ -18,7 +18,7 @@ output "for_loop_with_map_1" {
 # Output - For Loop with Map Advanced
 output "for_loop_with_map_2" {
   description = "for loop with map-2"
-  value = {for A, instance in aws_instance.myec2vm: A=> instance.public_dns}
+  value = {for c, instance in aws_instance.myec2vm: c=> instance.public_dns}
 }
 
 # NOTE: This will not work when using fro_each [Meta Aurgement]
