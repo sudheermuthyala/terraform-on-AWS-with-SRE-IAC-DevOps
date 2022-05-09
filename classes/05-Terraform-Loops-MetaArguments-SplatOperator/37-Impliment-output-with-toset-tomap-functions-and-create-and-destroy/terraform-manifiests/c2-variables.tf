@@ -3,12 +3,12 @@ variable "aws_region" {
 }
 
 variable "instance_type" {
-  default= t2.micro
+  default= "t2.micro"
   type = string
 }
 
 variable "key_name" {
-  default = terraform-k
+  default = "terraform-k"
   type = string
 }
 
