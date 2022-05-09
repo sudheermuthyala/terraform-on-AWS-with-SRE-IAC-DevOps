@@ -14,7 +14,7 @@ variable "key_name" {
 variable "instance_type" {
   description = "instance_type"
   type = string
-  default = "t3.small"
+  default = "t2.micro"
 }
 
 ## list varible for instance type
