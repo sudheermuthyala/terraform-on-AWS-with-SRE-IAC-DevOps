@@ -1,3 +1,4 @@
+/*
 ## Output for loop with List
 # while we dealing with List we provide only ["value"]
 output "for_loop_with_list" {
@@ -42,3 +43,5 @@ output "AZ" {
     #value = data.aws_availability_zones.my_AZ_zones.names
     value = toset(data.aws_availability_zones.my_AZ_zones.names)
 }
+
+*/
