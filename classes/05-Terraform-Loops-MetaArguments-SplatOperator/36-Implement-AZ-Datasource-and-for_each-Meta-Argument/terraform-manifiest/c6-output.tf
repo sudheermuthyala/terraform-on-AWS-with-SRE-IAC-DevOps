@@ -38,7 +38,7 @@ output "Latest_Generalized_Splat_Operator" {
 }
 
 output "AZ" {
-    value = data.aws_availability_zones.my_AZ_zones.names
+    #value = data.aws_availability_zones.my_AZ_zones.names
     value = toset(data.aws_availability_zones.my_AZ_zones.names)
 
   
