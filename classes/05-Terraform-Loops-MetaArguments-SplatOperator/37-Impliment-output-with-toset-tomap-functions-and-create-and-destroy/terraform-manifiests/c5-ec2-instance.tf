@@ -17,7 +17,7 @@ resource "aws_instance" "myec2vm" {
   for_each                  = toset(data.aws_availability_zones.my_AZ_zones.names)
   availability_zone         = each.key
 
-    tags {
+    tags = {
         Name = "my_ec2Demo-${each.value}"
     }
 
