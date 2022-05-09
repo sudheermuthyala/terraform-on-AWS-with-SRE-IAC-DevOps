@@ -10,7 +10,7 @@ output "for_loop_with_list" {
 ## while dealing with map we have to provide {"Key" = "value"}
 output "for_loop_with_map_1" {
     description = "for loop with map-1"
-    value = {for instance in aws_instance.myec2vm: instance.id => instance.public_dns    }
+    value = {for instance in aws_instance.myec2vm: instance.id => instance.public_dns}
   
 }
 
@@ -38,8 +38,8 @@ output "Latest_Generalized_Splat_Operator" {
 }
 
 output "AZ" {
-    #value = data.aws_availability_zones.my_AZ_zones.names
-    #value = toset(data.aws_availability_zones.my_AZ_zones.names)
+    value = data.aws_availability_zones.my_AZ_zones.names
+    value = toset(data.aws_availability_zones.my_AZ_zones.names)
 
   
 }
