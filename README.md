@@ -6,3 +6,6 @@
 02-01
 
 03-Terraform-Language-Syntax
+testing
+git config --global user.email "sudheerlikeu@gmail.com"
+git config --global user.name "sudheer"
