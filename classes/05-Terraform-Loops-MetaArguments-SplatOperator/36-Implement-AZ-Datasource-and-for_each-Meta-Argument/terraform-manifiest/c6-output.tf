@@ -39,8 +39,8 @@ output "for_loop_with_map_2" {
 # }
 
 # to view the list of aws_availability_zones  Names in the region  
-output "AZ" {
-    #value = data.aws_availability_zones.my_AZ_zones.names
-    value = toset(data.aws_availability_zones.my_AZ_zones.names)
-}
-
+# output "AZ" {
+#   value = data.aws_availability_zones.my_AZ_zones.names
+    # value = toset(data.aws_availability_zones.my_AZ_zones.names)
+# }
+# 
