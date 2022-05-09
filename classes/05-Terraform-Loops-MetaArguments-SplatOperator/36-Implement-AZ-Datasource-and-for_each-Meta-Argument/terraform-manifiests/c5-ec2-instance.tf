@@ -5,6 +5,7 @@ data "aws_availability_zones" "my_AZ_zones" {
     values = ["opt-in-not-required"]
   }
 }
+
 #  data.aws_availability_zones.my_AZ_zones.names            [this will provide the list values of AZ]
 #  toset(data.aws_availability_zones.my_AZ_zones.names)     [this will convert to list values to set of values]
 
