@@ -40,7 +40,20 @@ output "output_v3_2" {
 }
 
 output "output_v3_3" {
+    value = keys({for t, details in data.aws_ec2_instance_type_offerings.my_inst_type: 
+    t=> details.instance_types if length(details.instance_types)!= 0 })
+
+}
+
+output "output_v3_4" {
     value = values({for t, details in data.aws_ec2_instance_type_offerings.my_inst_type: 
     t=> details.instance_types if length(details.instance_types)!= 0 })
 
+}
+
+output "output_v3_5" {
+  value = {
+      keys(for c, details in data.aws_ec2_instance_type_offerings.my_inst_type:
+      c=> details.instance_types if length(details.instance_types) != 0) [0]
+  }
 }
