@@ -16,14 +16,15 @@ data "aws_ec2_instance_type_offerings" "my_inst_type2" {
   location_type = "availability-zone"
 }
 
+# Important Note: Once for_each is set, its attributes must be accessed on specific instances
 
-output "output_v2_1" {
-  value = [for t in data.aws_ec2_instance_type_offerings.my_inst_type2: t.instance_types]
+output "output_v2_1_List" {
+  value = toset([for t in data.aws_ec2_instance_type_offerings.my_inst_type2: t.instance_types])
 }
 
-
-output "output_v2_2" {
-  value = {
+# Create a Map with Key as Availability Zone and value as Instance Type supported
+output "output_v2_2_Map" {
+  value = toset({
       for az, details in data.aws_ec2_instance_type_offerings.my_inst_type2: az => details.instance_types
-  }
+  })
 }
