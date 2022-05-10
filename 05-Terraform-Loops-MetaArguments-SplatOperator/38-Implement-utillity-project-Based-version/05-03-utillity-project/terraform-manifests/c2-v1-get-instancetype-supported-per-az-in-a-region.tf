@@ -20,6 +20,10 @@ data "aws_ec2_instance_type_offerings" "my_inst_type1" {
 
 
 ## Output 
-output "output_v1_1" {
+#output "output_v1_1_useast_1a" {
+#    value = data.aws_ec2_instance_type_offerings.my_inst_type1.instance_types
+#}
+#
+output "output_v1_1_us_east_1e" {
     value = data.aws_ec2_instance_type_offerings.my_inst_type1.instance_types
 }
