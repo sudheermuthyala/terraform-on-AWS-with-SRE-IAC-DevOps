@@ -39,16 +39,26 @@ output "output_v3_2" {
   }
 }
 
+# Output-3
+# Filtered Output: with Keys Function - Which gets keys from a Map
+# This will return the list of availability zones supported for a instance type
 output "output_v3_3" {
     value = keys({for t, details in data.aws_ec2_instance_type_offerings.my_inst_type: 
     t=> details.instance_types if length(details.instance_types)!= 0 })
 }
 
+ #Output-4
+# Filtered Output: with values Function - Which gets values from a Map
+# This will return the list of availability zones supported for a instance type
 output "output_v3_4" {
     value = values({for t, details in data.aws_ec2_instance_type_offerings.my_inst_type: 
     t=> details.instance_types if length(details.instance_types)!= 0 })
 
 }
+
+
+# Output-5 (additional learning)
+# Filtered Output: As the output is list now, get the first item from list (just for learning)
 output "output_v3_5" {
   value = keys({for c, details in data.aws_ec2_instance_type_offerings.my_inst_type:
   c=> details.instance_types if length(details.instance_types)!= 0})  [0]
