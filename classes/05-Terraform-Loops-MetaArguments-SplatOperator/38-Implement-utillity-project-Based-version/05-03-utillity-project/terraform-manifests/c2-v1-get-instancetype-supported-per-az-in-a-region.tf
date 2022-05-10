@@ -1,0 +1,1 @@
+## c2-v1-get-instancetype-supported-per-az-in-a-region.tf
