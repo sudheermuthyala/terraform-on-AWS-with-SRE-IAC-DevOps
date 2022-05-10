@@ -38,3 +38,8 @@ output "output_v3_2" {
       AZ=> t.instance_types if length(t.instance_types) != 0
   }
 }
+
+output "output_v3_3" {
+    value = toset([for t in data.aws_ec2_instance_type_offerings.my_inst_type2: t.instance_types])
+
+}
