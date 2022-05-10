@@ -23,5 +23,5 @@ data "aws_ec2_instance_type_offerings" "my_inst_type" {
 }
 
 output "output_v3_1" {
-  value = [for t in aws_ec2_instance_type_offerings.my_inst_type: t.instance_types]
+  value = [for az, details in aws_ec2_instance_type_offerings.my_inst_type: details.instance_types]
 }
