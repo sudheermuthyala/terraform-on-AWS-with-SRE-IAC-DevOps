@@ -22,8 +22,19 @@ data "aws_ec2_instance_type_offerings" "my_inst_type" {
   location_type = "availability-zone"
 }
 
+# Output-1
+# Basic Output: All Availability Zones mapped to Supported Instance Types 
 output "output_v3_1" {
-  value = tomap({
+  value = {
        for az, details in data.aws_ec2_instance_type_offerings.my_inst_type: az=> details.instance_types
-    })
+    }
+}
+
+# Output-2
+# Filtered Output: Exclude Unsupported Availability Zones
+output "output_v3_2" {
+  value = {
+      for AZ, t in data.aws_ec2_instance_type_offerings.my_inst_type: 
+      AZ=> t.instance_types if length(t.instance_types) != 0
+  }
 }
