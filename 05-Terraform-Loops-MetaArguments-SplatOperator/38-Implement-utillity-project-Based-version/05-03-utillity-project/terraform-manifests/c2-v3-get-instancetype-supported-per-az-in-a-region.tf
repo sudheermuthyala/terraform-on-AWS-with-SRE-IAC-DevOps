@@ -23,7 +23,7 @@ data "aws_ec2_instance_type_offerings" "my_inst_type" {
 }
 
 output "output_v3_1" {
-  value = toset({
+  value = tolist[{
        for az, details in data.aws_ec2_instance_type_offerings.my_inst_type: az=> details.instance_types
-    })
+    }]
 }
