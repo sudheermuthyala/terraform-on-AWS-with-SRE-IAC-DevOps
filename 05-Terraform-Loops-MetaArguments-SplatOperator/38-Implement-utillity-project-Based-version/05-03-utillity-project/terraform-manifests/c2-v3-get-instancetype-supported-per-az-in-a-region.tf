@@ -40,6 +40,6 @@ output "output_v3_2" {
 }
 
 output "output_v3_3" {
-    value = toset([for t in data.aws_ec2_instance_type_offerings.my_inst_type2: t.instance_types])
+    value = keys({for t, details in data.aws_ec2_instance_type_offerings.my_inst_type: t=> details.instance_types})
 
 }
