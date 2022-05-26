@@ -12,3 +12,5 @@ git config --global user.name "sudheer"
 alias g='git add . ; git commit -m "terraform practice" ; git push'
 
 
+
+06-AWS_VPC_3_Tier_Architectture_Design_using_terraform
